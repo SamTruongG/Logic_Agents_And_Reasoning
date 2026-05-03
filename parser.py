@@ -13,8 +13,8 @@ from dataclasses import dataclass
 from typing import Iterator, List, Set, Optional, Tuple
 from enum import Enum
 
-import formula_sequent
-from formula_sequent import Sequent, Formula_Builder, normalize
+import sequent
+from sequent import Sequent, Formula_Builder, normalize
 
 
 # =============================================================================
