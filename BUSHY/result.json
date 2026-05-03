@@ -1,0 +1,4045 @@
+{
+  "ts": "2026-05-03T13:34:59.416675",
+  "dir": "mptp2078_problems",
+  "count": 336,
+  "success": 336,
+  "tasks": 336,
+  "wins": 328,
+  "rate": 97.61904761904762,
+  "proof_secs": 1.342888593673706,
+  "total_secs": 1.863966941833496,
+  "data": {
+    "enumset1__t100_enumset1.p": {
+      "name": "enumset1__t100_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0004718303680419922
+      ],
+      "proof_secs": 0.0004718303680419922,
+      "secs": 0.0018100738525390625
+    },
+    "enumset1__t102_enumset1.p": {
+      "name": "enumset1__t102_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00021600723266601562
+      ],
+      "proof_secs": 0.00021600723266601562,
+      "secs": 0.0008568763732910156
+    },
+    "enumset1__t103_enumset1.p": {
+      "name": "enumset1__t103_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00045680999755859375
+      ],
+      "proof_secs": 0.00045680999755859375,
+      "secs": 0.0015881061553955078
+    },
+    "enumset1__t104_enumset1.p": {
+      "name": "enumset1__t104_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0007958412170410156
+      ],
+      "proof_secs": 0.0007958412170410156,
+      "secs": 0.0020520687103271484
+    },
+    "enumset1__t105_enumset1.p": {
+      "name": "enumset1__t105_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0011551380157470703
+      ],
+      "proof_secs": 0.0011551380157470703,
+      "secs": 0.003454923629760742
+    },
+    "enumset1__t107_enumset1.p": {
+      "name": "enumset1__t107_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00045609474182128906
+      ],
+      "proof_secs": 0.00045609474182128906,
+      "secs": 0.0018260478973388672
+    },
+    "enumset1__t108_enumset1.p": {
+      "name": "enumset1__t108_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005939006805419922
+      ],
+      "proof_secs": 0.0005939006805419922,
+      "secs": 0.0025348663330078125
+    },
+    "enumset1__t109_enumset1.p": {
+      "name": "enumset1__t109_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005438327789306641
+      ],
+      "proof_secs": 0.0005438327789306641,
+      "secs": 0.0032188892364501953
+    },
+    "enumset1__t110_enumset1.p": {
+      "name": "enumset1__t110_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0003771781921386719
+      ],
+      "proof_secs": 0.0003771781921386719,
+      "secs": 0.002864837646484375
+    },
+    "enumset1__t111_enumset1.p": {
+      "name": "enumset1__t111_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0009429454803466797
+      ],
+      "proof_secs": 0.0009429454803466797,
+      "secs": 0.003239870071411133
+    },
+    "enumset1__t112_enumset1.p": {
+      "name": "enumset1__t112_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0009579658508300781
+      ],
+      "proof_secs": 0.0009579658508300781,
+      "secs": 0.0033249855041503906
+    },
+    "enumset1__t113_enumset1.p": {
+      "name": "enumset1__t113_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.000904083251953125
+      ],
+      "proof_secs": 0.000904083251953125,
+      "secs": 0.0038950443267822266
+    },
+    "enumset1__t116_enumset1.p": {
+      "name": "enumset1__t116_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00023889541625976562
+      ],
+      "proof_secs": 0.00023889541625976562,
+      "secs": 0.001567840576171875
+    },
+    "enumset1__t117_enumset1.p": {
+      "name": "enumset1__t117_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00031375885009765625
+      ],
+      "proof_secs": 0.00031375885009765625,
+      "secs": 0.0019299983978271484
+    },
+    "enumset1__t118_enumset1.p": {
+      "name": "enumset1__t118_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005710124969482422
+      ],
+      "proof_secs": 0.0005710124969482422,
+      "secs": 0.0018482208251953125
+    },
+    "enumset1__t119_enumset1.p": {
+      "name": "enumset1__t119_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0009829998016357422
+      ],
+      "proof_secs": 0.0009829998016357422,
+      "secs": 0.003251791000366211
+    },
+    "enumset1__t123_enumset1.p": {
+      "name": "enumset1__t123_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0003399848937988281
+      ],
+      "proof_secs": 0.0003399848937988281,
+      "secs": 0.002321004867553711
+    },
+    "enumset1__t125_enumset1.p": {
+      "name": "enumset1__t125_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005660057067871094
+      ],
+      "proof_secs": 0.0005660057067871094,
+      "secs": 0.0018811225891113281
+    },
+    "enumset1__t127_enumset1.p": {
+      "name": "enumset1__t127_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0024209022521972656
+      ],
+      "proof_secs": 0.0024209022521972656,
+      "secs": 0.0054891109466552734
+    },
+    "enumset1__t128_enumset1.p": {
+      "name": "enumset1__t128_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0026280879974365234
+      ],
+      "proof_secs": 0.0026280879974365234,
+      "secs": 0.005033016204833984
+    },
+    "enumset1__t129_enumset1.p": {
+      "name": "enumset1__t129_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.003958225250244141
+      ],
+      "proof_secs": 0.003958225250244141,
+      "secs": 0.007477998733520508
+    },
+    "enumset1__t130_enumset1.p": {
+      "name": "enumset1__t130_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.002032756805419922
+      ],
+      "proof_secs": 0.002032756805419922,
+      "secs": 0.0032939910888671875
+    },
+    "enumset1__t131_enumset1.p": {
+      "name": "enumset1__t131_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0023300647735595703
+      ],
+      "proof_secs": 0.0023300647735595703,
+      "secs": 0.004689931869506836
+    },
+    "enumset1__t134_enumset1.p": {
+      "name": "enumset1__t134_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0022170543670654297
+      ],
+      "proof_secs": 0.0022170543670654297,
+      "secs": 0.004142045974731445
+    },
+    "enumset1__t135_enumset1.p": {
+      "name": "enumset1__t135_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.007681131362915039
+      ],
+      "proof_secs": 0.007681131362915039,
+      "secs": 0.011352777481079102
+    },
+    "enumset1__t41_enumset1.p": {
+      "name": "enumset1__t41_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.001529693603515625
+      ],
+      "proof_secs": 0.001529693603515625,
+      "secs": 0.0029609203338623047
+    },
+    "enumset1__t42_enumset1.p": {
+      "name": "enumset1__t42_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.002460002899169922
+      ],
+      "proof_secs": 0.002460002899169922,
+      "secs": 0.0039861202239990234
+    },
+    "enumset1__t43_enumset1.p": {
+      "name": "enumset1__t43_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0006458759307861328
+      ],
+      "proof_secs": 0.0006458759307861328,
+      "secs": 0.0016570091247558594
+    },
+    "enumset1__t44_enumset1.p": {
+      "name": "enumset1__t44_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0008699893951416016
+      ],
+      "proof_secs": 0.0008699893951416016,
+      "secs": 0.002003908157348633
+    },
+    "enumset1__t45_enumset1.p": {
+      "name": "enumset1__t45_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00038814544677734375
+      ],
+      "proof_secs": 0.00038814544677734375,
+      "secs": 0.0010731220245361328
+    },
+    "enumset1__t46_enumset1.p": {
+      "name": "enumset1__t46_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0007038116455078125
+      ],
+      "proof_secs": 0.0007038116455078125,
+      "secs": 0.0018270015716552734
+    },
+    "enumset1__t47_enumset1.p": {
+      "name": "enumset1__t47_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0013041496276855469
+      ],
+      "proof_secs": 0.0013041496276855469,
+      "secs": 0.002344846725463867
+    },
+    "enumset1__t48_enumset1.p": {
+      "name": "enumset1__t48_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.019999027252197266
+      ],
+      "proof_secs": 0.019999027252197266,
+      "secs": 0.04102301597595215
+    },
+    "enumset1__t49_enumset1.p": {
+      "name": "enumset1__t49_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00824284553527832
+      ],
+      "proof_secs": 0.00824284553527832,
+      "secs": 0.02296614646911621
+    },
+    "enumset1__t50_enumset1.p": {
+      "name": "enumset1__t50_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0015218257904052734
+      ],
+      "proof_secs": 0.0015218257904052734,
+      "secs": 0.0045070648193359375
+    },
+    "enumset1__t51_enumset1.p": {
+      "name": "enumset1__t51_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0016617774963378906
+      ],
+      "proof_secs": 0.0016617774963378906,
+      "secs": 0.004023075103759766
+    },
+    "enumset1__t52_enumset1.p": {
+      "name": "enumset1__t52_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.006044864654541016
+      ],
+      "proof_secs": 0.006044864654541016,
+      "secs": 0.012497901916503906
+    },
+    "enumset1__t53_enumset1.p": {
+      "name": "enumset1__t53_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005931854248046875
+      ],
+      "proof_secs": 0.0005931854248046875,
+      "secs": 0.003712892532348633
+    },
+    "enumset1__t54_enumset1.p": {
+      "name": "enumset1__t54_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.001466989517211914
+      ],
+      "proof_secs": 0.001466989517211914,
+      "secs": 0.004495143890380859
+    },
+    "enumset1__t55_enumset1.p": {
+      "name": "enumset1__t55_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0017271041870117188
+      ],
+      "proof_secs": 0.0017271041870117188,
+      "secs": 0.0041463375091552734
+    },
+    "enumset1__t56_enumset1.p": {
+      "name": "enumset1__t56_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0016548633575439453
+      ],
+      "proof_secs": 0.0016548633575439453,
+      "secs": 0.004395008087158203
+    },
+    "enumset1__t57_enumset1.p": {
+      "name": "enumset1__t57_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0021839141845703125
+      ],
+      "proof_secs": 0.0021839141845703125,
+      "secs": 0.0048639774322509766
+    },
+    "enumset1__t58_enumset1.p": {
+      "name": "enumset1__t58_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0013720989227294922
+      ],
+      "proof_secs": 0.0013720989227294922,
+      "secs": 0.0036132335662841797
+    },
+    "enumset1__t59_enumset1.p": {
+      "name": "enumset1__t59_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0007460117340087891
+      ],
+      "proof_secs": 0.0007460117340087891,
+      "secs": 0.0034568309783935547
+    },
+    "enumset1__t62_enumset1.p": {
+      "name": "enumset1__t62_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0021758079528808594
+      ],
+      "proof_secs": 0.0021758079528808594,
+      "secs": 0.006433010101318359
+    },
+    "enumset1__t63_enumset1.p": {
+      "name": "enumset1__t63_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.002063751220703125
+      ],
+      "proof_secs": 0.002063751220703125,
+      "secs": 0.004397869110107422
+    },
+    "enumset1__t64_enumset1.p": {
+      "name": "enumset1__t64_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.002084016799926758
+      ],
+      "proof_secs": 0.002084016799926758,
+      "secs": 0.006791114807128906
+    },
+    "enumset1__t65_enumset1.p": {
+      "name": "enumset1__t65_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.000843048095703125
+      ],
+      "proof_secs": 0.000843048095703125,
+      "secs": 0.0026078224182128906
+    },
+    "enumset1__t66_enumset1.p": {
+      "name": "enumset1__t66_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.003355741500854492
+      ],
+      "proof_secs": 0.003355741500854492,
+      "secs": 0.007224082946777344
+    },
+    "enumset1__t67_enumset1.p": {
+      "name": "enumset1__t67_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0022928714752197266
+      ],
+      "proof_secs": 0.0022928714752197266,
+      "secs": 0.004171848297119141
+    },
+    "enumset1__t68_enumset1.p": {
+      "name": "enumset1__t68_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0019347667694091797
+      ],
+      "proof_secs": 0.0019347667694091797,
+      "secs": 0.003980159759521484
+    },
+    "enumset1__t69_enumset1.p": {
+      "name": "enumset1__t69_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.000762939453125
+      ],
+      "proof_secs": 0.000762939453125,
+      "secs": 0.002440929412841797
+    },
+    "enumset1__t70_enumset1.p": {
+      "name": "enumset1__t70_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00035691261291503906
+      ],
+      "proof_secs": 0.00035691261291503906,
+      "secs": 0.0013532638549804688
+    },
+    "enumset1__t71_enumset1.p": {
+      "name": "enumset1__t71_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0004589557647705078
+      ],
+      "proof_secs": 0.0004589557647705078,
+      "secs": 0.0013968944549560547
+    },
+    "enumset1__t72_enumset1.p": {
+      "name": "enumset1__t72_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0007259845733642578
+      ],
+      "proof_secs": 0.0007259845733642578,
+      "secs": 0.001905202865600586
+    },
+    "enumset1__t73_enumset1.p": {
+      "name": "enumset1__t73_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.000823974609375
+      ],
+      "proof_secs": 0.000823974609375,
+      "secs": 0.0021882057189941406
+    },
+    "enumset1__t74_enumset1.p": {
+      "name": "enumset1__t74_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0015397071838378906
+      ],
+      "proof_secs": 0.0015397071838378906,
+      "secs": 0.002768993377685547
+    },
+    "enumset1__t75_enumset1.p": {
+      "name": "enumset1__t75_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0018508434295654297
+      ],
+      "proof_secs": 0.0018508434295654297,
+      "secs": 0.0033159255981445312
+    },
+    "enumset1__t76_enumset1.p": {
+      "name": "enumset1__t76_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00010013580322265625
+      ],
+      "proof_secs": 0.00010013580322265625,
+      "secs": 0.0007359981536865234
+    },
+    "enumset1__t77_enumset1.p": {
+      "name": "enumset1__t77_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00017404556274414062
+      ],
+      "proof_secs": 0.00017404556274414062,
+      "secs": 0.001007080078125
+    },
+    "enumset1__t78_enumset1.p": {
+      "name": "enumset1__t78_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0003190040588378906
+      ],
+      "proof_secs": 0.0003190040588378906,
+      "secs": 0.0012030601501464844
+    },
+    "enumset1__t79_enumset1.p": {
+      "name": "enumset1__t79_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005629062652587891
+      ],
+      "proof_secs": 0.0005629062652587891,
+      "secs": 0.0014629364013671875
+    },
+    "enumset1__t80_enumset1.p": {
+      "name": "enumset1__t80_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005469322204589844
+      ],
+      "proof_secs": 0.0005469322204589844,
+      "secs": 0.0015919208526611328
+    },
+    "enumset1__t81_enumset1.p": {
+      "name": "enumset1__t81_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0008838176727294922
+      ],
+      "proof_secs": 0.0008838176727294922,
+      "secs": 0.001970052719116211
+    },
+    "enumset1__t82_enumset1.p": {
+      "name": "enumset1__t82_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        8.916854858398438e-05
+      ],
+      "proof_secs": 8.916854858398438e-05,
+      "secs": 0.001008749008178711
+    },
+    "enumset1__t83_enumset1.p": {
+      "name": "enumset1__t83_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0003261566162109375
+      ],
+      "proof_secs": 0.0003261566162109375,
+      "secs": 0.001672983169555664
+    },
+    "enumset1__t84_enumset1.p": {
+      "name": "enumset1__t84_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0002551078796386719
+      ],
+      "proof_secs": 0.0002551078796386719,
+      "secs": 0.0009081363677978516
+    },
+    "enumset1__t85_enumset1.p": {
+      "name": "enumset1__t85_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0008299350738525391
+      ],
+      "proof_secs": 0.0008299350738525391,
+      "secs": 0.0019328594207763672
+    },
+    "enumset1__t86_enumset1.p": {
+      "name": "enumset1__t86_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005300045013427734
+      ],
+      "proof_secs": 0.0005300045013427734,
+      "secs": 0.00177001953125
+    },
+    "enumset1__t87_enumset1.p": {
+      "name": "enumset1__t87_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        8.702278137207031e-05
+      ],
+      "proof_secs": 8.702278137207031e-05,
+      "secs": 0.0006761550903320312
+    },
+    "enumset1__t88_enumset1.p": {
+      "name": "enumset1__t88_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0001888275146484375
+      ],
+      "proof_secs": 0.0001888275146484375,
+      "secs": 0.0017118453979492188
+    },
+    "enumset1__t89_enumset1.p": {
+      "name": "enumset1__t89_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00024127960205078125
+      ],
+      "proof_secs": 0.00024127960205078125,
+      "secs": 0.0013027191162109375
+    },
+    "enumset1__t90_enumset1.p": {
+      "name": "enumset1__t90_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00042700767517089844
+      ],
+      "proof_secs": 0.00042700767517089844,
+      "secs": 0.001680135726928711
+    },
+    "enumset1__t91_enumset1.p": {
+      "name": "enumset1__t91_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00017189979553222656
+      ],
+      "proof_secs": 0.00017189979553222656,
+      "secs": 0.0010368824005126953
+    },
+    "enumset1__t92_enumset1.p": {
+      "name": "enumset1__t92_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00018596649169921875
+      ],
+      "proof_secs": 0.00018596649169921875,
+      "secs": 0.0008940696716308594
+    },
+    "enumset1__t93_enumset1.p": {
+      "name": "enumset1__t93_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0002512931823730469
+      ],
+      "proof_secs": 0.0002512931823730469,
+      "secs": 0.0008978843688964844
+    },
+    "enumset1__t94_enumset1.p": {
+      "name": "enumset1__t94_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00014710426330566406
+      ],
+      "proof_secs": 0.00014710426330566406,
+      "secs": 0.0007207393646240234
+    },
+    "enumset1__t95_enumset1.p": {
+      "name": "enumset1__t95_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00029087066650390625
+      ],
+      "proof_secs": 0.00029087066650390625,
+      "secs": 0.0009770393371582031
+    },
+    "enumset1__t96_enumset1.p": {
+      "name": "enumset1__t96_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00012612342834472656
+      ],
+      "proof_secs": 0.00012612342834472656,
+      "secs": 0.0015149116516113281
+    },
+    "enumset1__t98_enumset1.p": {
+      "name": "enumset1__t98_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0003631114959716797
+      ],
+      "proof_secs": 0.0003631114959716797,
+      "secs": 0.0009968280792236328
+    },
+    "enumset1__t99_enumset1.p": {
+      "name": "enumset1__t99_enumset1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0002899169921875
+      ],
+      "proof_secs": 0.0002899169921875,
+      "secs": 0.0008809566497802734
+    },
+    "finset_1__t14_finset_1.p": {
+      "name": "finset_1__t14_finset_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.000286102294921875
+      ],
+      "proof_secs": 0.000286102294921875,
+      "secs": 0.0008342266082763672
+    },
+    "finset_1__t15_finset_1.p": {
+      "name": "finset_1__t15_finset_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00018978118896484375
+      ],
+      "proof_secs": 0.00018978118896484375,
+      "secs": 0.0006151199340820312
+    },
+    "finset_1__t17_finset_1.p": {
+      "name": "finset_1__t17_finset_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0002598762512207031
+      ],
+      "proof_secs": 0.0002598762512207031,
+      "secs": 0.0006699562072753906
+    },
+    "finset_1__t26_finset_1.p": {
+      "name": "finset_1__t26_finset_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00030994415283203125
+      ],
+      "proof_secs": 0.00030994415283203125,
+      "secs": 0.0008649826049804688
+    },
+    "funct_1__t161_funct_1.p": {
+      "name": "funct_1__t161_funct_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0010528564453125
+      ],
+      "proof_secs": 0.0010528564453125,
+      "secs": 0.0019042491912841797
+    },
+    "funct_1__t163_funct_1.p": {
+      "name": "funct_1__t163_funct_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0010533332824707031
+      ],
+      "proof_secs": 0.0010533332824707031,
+      "secs": 0.0024161338806152344
+    },
+    "funct_1__t52_funct_1.p": {
+      "name": "funct_1__t52_funct_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00012993812561035156
+      ],
+      "proof_secs": 0.00012993812561035156,
+      "secs": 0.0005428791046142578
+    },
+    "funct_1__t53_funct_1.p": {
+      "name": "funct_1__t53_funct_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.006728172302246094
+      ],
+      "proof_secs": 0.006728172302246094,
+      "secs": 0.007990121841430664
+    },
+    "funct_1__t55_funct_1.p": {
+      "name": "funct_1__t55_funct_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.002259969711303711
+      ],
+      "proof_secs": 0.002259969711303711,
+      "secs": 0.003177165985107422
+    },
+    "funct_1__t58_funct_1.p": {
+      "name": "funct_1__t58_funct_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.009762048721313477
+      ],
+      "proof_secs": 0.009762048721313477,
+      "secs": 0.0114898681640625
+    },
+    "funct_1__t59_funct_1.p": {
+      "name": "funct_1__t59_funct_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00970911979675293
+      ],
+      "proof_secs": 0.00970911979675293,
+      "secs": 0.011108875274658203
+    },
+    "funct_1__t63_funct_1.p": {
+      "name": "funct_1__t63_funct_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0024220943450927734
+      ],
+      "proof_secs": 0.0024220943450927734,
+      "secs": 0.004414081573486328
+    },
+    "funct_1__t64_funct_1.p": {
+      "name": "funct_1__t64_funct_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0026879310607910156
+      ],
+      "proof_secs": 0.0026879310607910156,
+      "secs": 0.004559993743896484
+    },
+    "funct_1__t65_funct_1.p": {
+      "name": "funct_1__t65_funct_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0051839351654052734
+      ],
+      "proof_secs": 0.0051839351654052734,
+      "secs": 0.006754875183105469
+    },
+    "funct_1__t67_funct_1.p": {
+      "name": "funct_1__t67_funct_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.023125171661376953
+      ],
+      "proof_secs": 0.023125171661376953,
+      "secs": 0.02509593963623047
+    },
+    "funct_1__t82_funct_1.p": {
+      "name": "funct_1__t82_funct_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0036029815673828125
+      ],
+      "proof_secs": 0.0036029815673828125,
+      "secs": 0.0047760009765625
+    },
+    "funct_1__t97_funct_1.p": {
+      "name": "funct_1__t97_funct_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.003924846649169922
+      ],
+      "proof_secs": 0.003924846649169922,
+      "secs": 0.0052471160888671875
+    },
+    "mcart_1__t28_mcart_1.p": {
+      "name": "mcart_1__t28_mcart_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0008842945098876953
+      ],
+      "proof_secs": 0.0008842945098876953,
+      "secs": 0.0018169879913330078
+    },
+    "mcart_1__t31_mcart_1.p": {
+      "name": "mcart_1__t31_mcart_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0006451606750488281
+      ],
+      "proof_secs": 0.0006451606750488281,
+      "secs": 0.0022661685943603516
+    },
+    "mcart_1__t32_mcart_1.p": {
+      "name": "mcart_1__t32_mcart_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0004642009735107422
+      ],
+      "proof_secs": 0.0004642009735107422,
+      "secs": 0.0016770362854003906
+    },
+    "mcart_1__t33_mcart_1.p": {
+      "name": "mcart_1__t33_mcart_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.002201080322265625
+      ],
+      "proof_secs": 0.002201080322265625,
+      "secs": 0.003214120864868164
+    },
+    "mcart_1__t38_mcart_1.p": {
+      "name": "mcart_1__t38_mcart_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00074005126953125
+      ],
+      "proof_secs": 0.00074005126953125,
+      "secs": 0.0020051002502441406
+    },
+    "mcart_1__t52_mcart_1.p": {
+      "name": "mcart_1__t52_mcart_1.p",
+      "ok": true,
+      "wins": 0,
+      "total": 1,
+      "ratio": 0.0,
+      "times": [
+        0.002015829086303711
+      ],
+      "proof_secs": 0.002015829086303711,
+      "secs": 0.002821683883666992
+    },
+    "mcart_1__t53_mcart_1.p": {
+      "name": "mcart_1__t53_mcart_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0003070831298828125
+      ],
+      "proof_secs": 0.0003070831298828125,
+      "secs": 0.0010378360748291016
+    },
+    "mcart_1__t54_mcart_1.p": {
+      "name": "mcart_1__t54_mcart_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0003330707550048828
+      ],
+      "proof_secs": 0.0003330707550048828,
+      "secs": 0.001584768295288086
+    },
+    "mcart_1__t58_mcart_1.p": {
+      "name": "mcart_1__t58_mcart_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0007331371307373047
+      ],
+      "proof_secs": 0.0007331371307373047,
+      "secs": 0.002176046371459961
+    },
+    "mcart_1__t64_mcart_1.p": {
+      "name": "mcart_1__t64_mcart_1.p",
+      "ok": true,
+      "wins": 0,
+      "total": 1,
+      "ratio": 0.0,
+      "times": [
+        0.004050016403198242
+      ],
+      "proof_secs": 0.004050016403198242,
+      "secs": 0.005082845687866211
+    },
+    "mcart_1__t77_mcart_1.p": {
+      "name": "mcart_1__t77_mcart_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0009529590606689453
+      ],
+      "proof_secs": 0.0009529590606689453,
+      "secs": 0.0021758079528808594
+    },
+    "mcart_1__t7_mcart_1.p": {
+      "name": "mcart_1__t7_mcart_1.p",
+      "ok": true,
+      "wins": 0,
+      "total": 1,
+      "ratio": 0.0,
+      "times": [
+        0.004490852355957031
+      ],
+      "proof_secs": 0.004490852355957031,
+      "secs": 0.005547046661376953
+    },
+    "mcart_1__t88_mcart_1.p": {
+      "name": "mcart_1__t88_mcart_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0022699832916259766
+      ],
+      "proof_secs": 0.0022699832916259766,
+      "secs": 0.003577709197998047
+    },
+    "mcart_1__t89_mcart_1.p": {
+      "name": "mcart_1__t89_mcart_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0024008750915527344
+      ],
+      "proof_secs": 0.0024008750915527344,
+      "secs": 0.0036878585815429688
+    },
+    "mcart_1__t8_mcart_1.p": {
+      "name": "mcart_1__t8_mcart_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005331039428710938
+      ],
+      "proof_secs": 0.0005331039428710938,
+      "secs": 0.0017828941345214844
+    },
+    "orders_2__t28_orders_2.p": {
+      "name": "orders_2__t28_orders_2.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.007235050201416016
+      ],
+      "proof_secs": 0.007235050201416016,
+      "secs": 0.008565902709960938
+    },
+    "orders_2__t29_orders_2.p": {
+      "name": "orders_2__t29_orders_2.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.004030942916870117
+      ],
+      "proof_secs": 0.004030942916870117,
+      "secs": 0.006105661392211914
+    },
+    "orders_2__t30_orders_2.p": {
+      "name": "orders_2__t30_orders_2.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.007937908172607422
+      ],
+      "proof_secs": 0.007937908172607422,
+      "secs": 0.009927988052368164
+    },
+    "orders_2__t32_orders_2.p": {
+      "name": "orders_2__t32_orders_2.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0061681270599365234
+      ],
+      "proof_secs": 0.0061681270599365234,
+      "secs": 0.008853912353515625
+    },
+    "ordinal1__t38_ordinal1.p": {
+      "name": "ordinal1__t38_ordinal1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.019450902938842773
+      ],
+      "proof_secs": 0.019450902938842773,
+      "secs": 0.02080368995666504
+    },
+    "ordinal1__t3_ordinal1.p": {
+      "name": "ordinal1__t3_ordinal1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.002198934555053711
+      ],
+      "proof_secs": 0.002198934555053711,
+      "secs": 0.0037403106689453125
+    },
+    "ordinal1__t48_ordinal1.p": {
+      "name": "ordinal1__t48_ordinal1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.002543210983276367
+      ],
+      "proof_secs": 0.002543210983276367,
+      "secs": 0.003982067108154297
+    },
+    "ordinal1__t4_ordinal1.p": {
+      "name": "ordinal1__t4_ordinal1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.003271818161010742
+      ],
+      "proof_secs": 0.003271818161010742,
+      "secs": 0.004845142364501953
+    },
+    "ordinal1__t5_ordinal1.p": {
+      "name": "ordinal1__t5_ordinal1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0038449764251708984
+      ],
+      "proof_secs": 0.0038449764251708984,
+      "secs": 0.005933284759521484
+    },
+    "ordinal1__t6_ordinal1.p": {
+      "name": "ordinal1__t6_ordinal1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.005006074905395508
+      ],
+      "proof_secs": 0.005006074905395508,
+      "secs": 0.006961345672607422
+    },
+    "relat_1__t101_relat_1.p": {
+      "name": "relat_1__t101_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00030422210693359375
+      ],
+      "proof_secs": 0.00030422210693359375,
+      "secs": 0.0010731220245361328
+    },
+    "relat_1__t102_relat_1.p": {
+      "name": "relat_1__t102_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0007991790771484375
+      ],
+      "proof_secs": 0.0007991790771484375,
+      "secs": 0.002022266387939453
+    },
+    "relat_1__t103_relat_1.p": {
+      "name": "relat_1__t103_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0008230209350585938
+      ],
+      "proof_secs": 0.0008230209350585938,
+      "secs": 0.0024771690368652344
+    },
+    "relat_1__t106_relat_1.p": {
+      "name": "relat_1__t106_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0013589859008789062
+      ],
+      "proof_secs": 0.0013589859008789062,
+      "secs": 0.0026078224182128906
+    },
+    "relat_1__t118_relat_1.p": {
+      "name": "relat_1__t118_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.001013040542602539
+      ],
+      "proof_secs": 0.001013040542602539,
+      "secs": 0.0019180774688720703
+    },
+    "relat_1__t120_relat_1.p": {
+      "name": "relat_1__t120_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0007586479187011719
+      ],
+      "proof_secs": 0.0007586479187011719,
+      "secs": 0.0019049644470214844
+    },
+    "relat_1__t121_relat_1.p": {
+      "name": "relat_1__t121_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0040929317474365234
+      ],
+      "proof_secs": 0.0040929317474365234,
+      "secs": 0.0052471160888671875
+    },
+    "relat_1__t122_relat_1.p": {
+      "name": "relat_1__t122_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.003486156463623047
+      ],
+      "proof_secs": 0.003486156463623047,
+      "secs": 0.005208015441894531
+    },
+    "relat_1__t126_relat_1.p": {
+      "name": "relat_1__t126_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0011639595031738281
+      ],
+      "proof_secs": 0.0011639595031738281,
+      "secs": 0.0021991729736328125
+    },
+    "relat_1__t128_relat_1.p": {
+      "name": "relat_1__t128_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0003180503845214844
+      ],
+      "proof_secs": 0.0003180503845214844,
+      "secs": 0.001232147216796875
+    },
+    "relat_1__t129_relat_1.p": {
+      "name": "relat_1__t129_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0008628368377685547
+      ],
+      "proof_secs": 0.0008628368377685547,
+      "secs": 0.0017962455749511719
+    },
+    "relat_1__t130_relat_1.p": {
+      "name": "relat_1__t130_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0008037090301513672
+      ],
+      "proof_secs": 0.0008037090301513672,
+      "secs": 0.002031087875366211
+    },
+    "relat_1__t133_relat_1.p": {
+      "name": "relat_1__t133_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0015759468078613281
+      ],
+      "proof_secs": 0.0015759468078613281,
+      "secs": 0.002730846405029297
+    },
+    "relat_1__t147_relat_1.p": {
+      "name": "relat_1__t147_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005578994750976562
+      ],
+      "proof_secs": 0.0005578994750976562,
+      "secs": 0.0012569427490234375
+    },
+    "relat_1__t158_relat_1.p": {
+      "name": "relat_1__t158_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0012819766998291016
+      ],
+      "proof_secs": 0.0012819766998291016,
+      "secs": 0.0028040409088134766
+    },
+    "relat_1__t161_relat_1.p": {
+      "name": "relat_1__t161_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.001708984375
+      ],
+      "proof_secs": 0.001708984375,
+      "secs": 0.002830982208251953
+    },
+    "relat_1__t170_relat_1.p": {
+      "name": "relat_1__t170_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0008721351623535156
+      ],
+      "proof_secs": 0.0008721351623535156,
+      "secs": 0.0016140937805175781
+    },
+    "relat_1__t180_relat_1.p": {
+      "name": "relat_1__t180_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.001317739486694336
+      ],
+      "proof_secs": 0.001317739486694336,
+      "secs": 0.002939939498901367
+    },
+    "relat_1__t185_relat_1.p": {
+      "name": "relat_1__t185_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0010361671447753906
+      ],
+      "proof_secs": 0.0010361671447753906,
+      "secs": 0.0024619102478027344
+    },
+    "relat_1__t186_relat_1.p": {
+      "name": "relat_1__t186_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.001039743423461914
+      ],
+      "proof_secs": 0.001039743423461914,
+      "secs": 0.0024650096893310547
+    },
+    "relat_1__t188_relat_1.p": {
+      "name": "relat_1__t188_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0014882087707519531
+      ],
+      "proof_secs": 0.0014882087707519531,
+      "secs": 0.0032939910888671875
+    },
+    "relat_1__t189_relat_1.p": {
+      "name": "relat_1__t189_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0007748603820800781
+      ],
+      "proof_secs": 0.0007748603820800781,
+      "secs": 0.002006053924560547
+    },
+    "relat_1__t190_relat_1.p": {
+      "name": "relat_1__t190_relat_1.p",
+      "ok": true,
+      "wins": 0,
+      "total": 1,
+      "ratio": 0.0,
+      "times": [
+        0.0018029212951660156
+      ],
+      "proof_secs": 0.0018029212951660156,
+      "secs": 0.0026710033416748047
+    },
+    "relat_1__t192_relat_1.p": {
+      "name": "relat_1__t192_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0007691383361816406
+      ],
+      "proof_secs": 0.0007691383361816406,
+      "secs": 0.0019741058349609375
+    },
+    "relat_1__t196_relat_1.p": {
+      "name": "relat_1__t196_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.000911712646484375
+      ],
+      "proof_secs": 0.000911712646484375,
+      "secs": 0.0022439956665039062
+    },
+    "relat_1__t197_relat_1.p": {
+      "name": "relat_1__t197_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0009002685546875
+      ],
+      "proof_secs": 0.0009002685546875,
+      "secs": 0.0020427703857421875
+    },
+    "relat_1__t198_relat_1.p": {
+      "name": "relat_1__t198_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0010941028594970703
+      ],
+      "proof_secs": 0.0010941028594970703,
+      "secs": 0.0022993087768554688
+    },
+    "relat_1__t199_relat_1.p": {
+      "name": "relat_1__t199_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005729198455810547
+      ],
+      "proof_secs": 0.0005729198455810547,
+      "secs": 0.0015921592712402344
+    },
+    "relat_1__t201_relat_1.p": {
+      "name": "relat_1__t201_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0006411075592041016
+      ],
+      "proof_secs": 0.0006411075592041016,
+      "secs": 0.0017409324645996094
+    },
+    "relat_1__t209_relat_1.p": {
+      "name": "relat_1__t209_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0025777816772460938
+      ],
+      "proof_secs": 0.0025777816772460938,
+      "secs": 0.0034351348876953125
+    },
+    "relat_1__t210_relat_1.p": {
+      "name": "relat_1__t210_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0010781288146972656
+      ],
+      "proof_secs": 0.0010781288146972656,
+      "secs": 0.0022237300872802734
+    },
+    "relat_1__t211_relat_1.p": {
+      "name": "relat_1__t211_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0016109943389892578
+      ],
+      "proof_secs": 0.0016109943389892578,
+      "secs": 0.0038878917694091797
+    },
+    "relat_1__t217_relat_1.p": {
+      "name": "relat_1__t217_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00074005126953125
+      ],
+      "proof_secs": 0.00074005126953125,
+      "secs": 0.00179290771484375
+    },
+    "relat_1__t218_relat_1.p": {
+      "name": "relat_1__t218_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0007572174072265625
+      ],
+      "proof_secs": 0.0007572174072265625,
+      "secs": 0.001631021499633789
+    },
+    "relat_1__t219_relat_1.p": {
+      "name": "relat_1__t219_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0017819404602050781
+      ],
+      "proof_secs": 0.0017819404602050781,
+      "secs": 0.0038781166076660156
+    },
+    "relat_1__t31_relat_1.p": {
+      "name": "relat_1__t31_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0011200904846191406
+      ],
+      "proof_secs": 0.0011200904846191406,
+      "secs": 0.002516031265258789
+    },
+    "relat_1__t33_relat_1.p": {
+      "name": "relat_1__t33_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0012218952178955078
+      ],
+      "proof_secs": 0.0012218952178955078,
+      "secs": 0.003779172897338867
+    },
+    "relat_1__t38_relat_1.p": {
+      "name": "relat_1__t38_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0003020763397216797
+      ],
+      "proof_secs": 0.0003020763397216797,
+      "secs": 0.0015139579772949219
+    },
+    "relat_1__t56_relat_1.p": {
+      "name": "relat_1__t56_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.010334968566894531
+      ],
+      "proof_secs": 0.010334968566894531,
+      "secs": 0.012722253799438477
+    },
+    "relat_1__t78_relat_1.p": {
+      "name": "relat_1__t78_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0017859935760498047
+      ],
+      "proof_secs": 0.0017859935760498047,
+      "secs": 0.005000114440917969
+    },
+    "relat_1__t80_relat_1.p": {
+      "name": "relat_1__t80_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.002134084701538086
+      ],
+      "proof_secs": 0.002134084701538086,
+      "secs": 0.003175973892211914
+    },
+    "relat_1__t82_relat_1.p": {
+      "name": "relat_1__t82_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0026960372924804688
+      ],
+      "proof_secs": 0.0026960372924804688,
+      "secs": 0.005007028579711914
+    },
+    "relat_1__t91_relat_1.p": {
+      "name": "relat_1__t91_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.000614166259765625
+      ],
+      "proof_secs": 0.000614166259765625,
+      "secs": 0.0023212432861328125
+    },
+    "relat_1__t92_relat_1.p": {
+      "name": "relat_1__t92_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0037550926208496094
+      ],
+      "proof_secs": 0.0037550926208496094,
+      "secs": 0.00675511360168457
+    },
+    "relat_1__t93_relat_1.p": {
+      "name": "relat_1__t93_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.004086971282958984
+      ],
+      "proof_secs": 0.004086971282958984,
+      "secs": 0.005507946014404297
+    },
+    "relat_1__t98_relat_1.p": {
+      "name": "relat_1__t98_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.001188039779663086
+      ],
+      "proof_secs": 0.001188039779663086,
+      "secs": 0.005054950714111328
+    },
+    "relat_1__t99_relat_1.p": {
+      "name": "relat_1__t99_relat_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0014848709106445312
+      ],
+      "proof_secs": 0.0014848709106445312,
+      "secs": 0.0031349658966064453
+    },
+    "setfam_1__t2_setfam_1.p": {
+      "name": "setfam_1__t2_setfam_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0032329559326171875
+      ],
+      "proof_secs": 0.0032329559326171875,
+      "secs": 0.0047760009765625
+    },
+    "subset_1__t10_subset_1.p": {
+      "name": "subset_1__t10_subset_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.014798164367675781
+      ],
+      "proof_secs": 0.014798164367675781,
+      "secs": 0.01704239845275879
+    },
+    "subset_1__t48_subset_1.p": {
+      "name": "subset_1__t48_subset_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.009836196899414062
+      ],
+      "proof_secs": 0.009836196899414062,
+      "secs": 0.011478900909423828
+    },
+    "subset_1__t4_subset_1.p": {
+      "name": "subset_1__t4_subset_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005388259887695312
+      ],
+      "proof_secs": 0.0005388259887695312,
+      "secs": 0.0016560554504394531
+    },
+    "subset_1__t63_subset_1.p": {
+      "name": "subset_1__t63_subset_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0015120506286621094
+      ],
+      "proof_secs": 0.0015120506286621094,
+      "secs": 0.002679109573364258
+    },
+    "subset_1__t65_subset_1.p": {
+      "name": "subset_1__t65_subset_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0029828548431396484
+      ],
+      "proof_secs": 0.0029828548431396484,
+      "secs": 0.004421234130859375
+    },
+    "subset_1__t7_subset_1.p": {
+      "name": "subset_1__t7_subset_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.011235952377319336
+      ],
+      "proof_secs": 0.011235952377319336,
+      "secs": 0.012846231460571289
+    },
+    "subset_1__t8_subset_1.p": {
+      "name": "subset_1__t8_subset_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.008615970611572266
+      ],
+      "proof_secs": 0.008615970611572266,
+      "secs": 0.010045051574707031
+    },
+    "wellord1__t18_wellord1.p": {
+      "name": "wellord1__t18_wellord1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0007920265197753906
+      ],
+      "proof_secs": 0.0007920265197753906,
+      "secs": 0.002125978469848633
+    },
+    "wellord1__t26_wellord1.p": {
+      "name": "wellord1__t26_wellord1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0011546611785888672
+      ],
+      "proof_secs": 0.0011546611785888672,
+      "secs": 0.0023860931396484375
+    },
+    "wellord1__t27_wellord1.p": {
+      "name": "wellord1__t27_wellord1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0006129741668701172
+      ],
+      "proof_secs": 0.0006129741668701172,
+      "secs": 0.0018322467803955078
+    },
+    "wellord1__t32_wellord1.p": {
+      "name": "wellord1__t32_wellord1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.001512289047241211
+      ],
+      "proof_secs": 0.001512289047241211,
+      "secs": 0.0034329891204833984
+    },
+    "wellord1__t48_wellord1.p": {
+      "name": "wellord1__t48_wellord1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.002418994903564453
+      ],
+      "proof_secs": 0.002418994903564453,
+      "secs": 0.003275156021118164
+    },
+    "wellord1__t50_wellord1.p": {
+      "name": "wellord1__t50_wellord1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0008008480072021484
+      ],
+      "proof_secs": 0.0008008480072021484,
+      "secs": 0.0019199848175048828
+    },
+    "wellord1__t52_wellord1.p": {
+      "name": "wellord1__t52_wellord1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0018048286437988281
+      ],
+      "proof_secs": 0.0018048286437988281,
+      "secs": 0.0033736228942871094
+    },
+    "wellord1__t54_wellord1.p": {
+      "name": "wellord1__t54_wellord1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0018651485443115234
+      ],
+      "proof_secs": 0.0018651485443115234,
+      "secs": 0.003136873245239258
+    },
+    "wellord1__t65_wellord1.p": {
+      "name": "wellord1__t65_wellord1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0006780624389648438
+      ],
+      "proof_secs": 0.0006780624389648438,
+      "secs": 0.0018391609191894531
+    },
+    "wellord1__t8_wellord1.p": {
+      "name": "wellord1__t8_wellord1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.11571979522705078
+      ],
+      "proof_secs": 0.11571979522705078,
+      "secs": 0.11717081069946289
+    },
+    "wellord2__t12_wellord2.p": {
+      "name": "wellord2__t12_wellord2.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0017218589782714844
+      ],
+      "proof_secs": 0.0017218589782714844,
+      "secs": 0.0027539730072021484
+    },
+    "wellord2__t7_wellord2.p": {
+      "name": "wellord2__t7_wellord2.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00404810905456543
+      ],
+      "proof_secs": 0.00404810905456543,
+      "secs": 0.005361080169677734
+    },
+    "xboole_0__t1_xboole_0.p": {
+      "name": "xboole_0__t1_xboole_0.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.005087852478027344
+      ],
+      "proof_secs": 0.005087852478027344,
+      "secs": 0.006352901458740234
+    },
+    "xboole_0__t2_xboole_0.p": {
+      "name": "xboole_0__t2_xboole_0.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.002250194549560547
+      ],
+      "proof_secs": 0.002250194549560547,
+      "secs": 0.0037679672241210938
+    },
+    "xboole_0__t3_xboole_0.p": {
+      "name": "xboole_0__t3_xboole_0.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.027818918228149414
+      ],
+      "proof_secs": 0.027818918228149414,
+      "secs": 0.029296875
+    },
+    "xboole_0__t4_xboole_0.p": {
+      "name": "xboole_0__t4_xboole_0.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.009817838668823242
+      ],
+      "proof_secs": 0.009817838668823242,
+      "secs": 0.011608123779296875
+    },
+    "xboole_0__t5_xboole_0.p": {
+      "name": "xboole_0__t5_xboole_0.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.004889011383056641
+      ],
+      "proof_secs": 0.004889011383056641,
+      "secs": 0.006625652313232422
+    },
+    "xboole_0__t6_xboole_0.p": {
+      "name": "xboole_0__t6_xboole_0.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0024149417877197266
+      ],
+      "proof_secs": 0.0024149417877197266,
+      "secs": 0.0034859180450439453
+    },
+    "xboole_0__t7_xboole_0.p": {
+      "name": "xboole_0__t7_xboole_0.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0017840862274169922
+      ],
+      "proof_secs": 0.0017840862274169922,
+      "secs": 0.002443075180053711
+    },
+    "xboole_1__t101_xboole_1.p": {
+      "name": "xboole_1__t101_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0003151893615722656
+      ],
+      "proof_secs": 0.0003151893615722656,
+      "secs": 0.0011382102966308594
+    },
+    "xboole_1__t102_xboole_1.p": {
+      "name": "xboole_1__t102_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0007259845733642578
+      ],
+      "proof_secs": 0.0007259845733642578,
+      "secs": 0.002022981643676758
+    },
+    "xboole_1__t103_xboole_1.p": {
+      "name": "xboole_1__t103_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00060272216796875
+      ],
+      "proof_secs": 0.00060272216796875,
+      "secs": 0.0014739036560058594
+    },
+    "xboole_1__t104_xboole_1.p": {
+      "name": "xboole_1__t104_xboole_1.p",
+      "ok": true,
+      "wins": 0,
+      "total": 1,
+      "ratio": 0.0,
+      "times": [
+        0.017199277877807617
+      ],
+      "proof_secs": 0.017199277877807617,
+      "secs": 0.01808929443359375
+    },
+    "xboole_1__t108_xboole_1.p": {
+      "name": "xboole_1__t108_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00034499168395996094
+      ],
+      "proof_secs": 0.00034499168395996094,
+      "secs": 0.001132965087890625
+    },
+    "xboole_1__t109_xboole_1.p": {
+      "name": "xboole_1__t109_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.000209808349609375
+      ],
+      "proof_secs": 0.000209808349609375,
+      "secs": 0.0007359981536865234
+    },
+    "xboole_1__t10_xboole_1.p": {
+      "name": "xboole_1__t10_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0003409385681152344
+      ],
+      "proof_secs": 0.0003409385681152344,
+      "secs": 0.0008842945098876953
+    },
+    "xboole_1__t110_xboole_1.p": {
+      "name": "xboole_1__t110_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0011739730834960938
+      ],
+      "proof_secs": 0.0011739730834960938,
+      "secs": 0.0020532608032226562
+    },
+    "xboole_1__t112_xboole_1.p": {
+      "name": "xboole_1__t112_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0007948875427246094
+      ],
+      "proof_secs": 0.0007948875427246094,
+      "secs": 0.0021250247955322266
+    },
+    "xboole_1__t113_xboole_1.p": {
+      "name": "xboole_1__t113_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0002970695495605469
+      ],
+      "proof_secs": 0.0002970695495605469,
+      "secs": 0.0008718967437744141
+    },
+    "xboole_1__t114_xboole_1.p": {
+      "name": "xboole_1__t114_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0010199546813964844
+      ],
+      "proof_secs": 0.0010199546813964844,
+      "secs": 0.0017900466918945312
+    },
+    "xboole_1__t115_xboole_1.p": {
+      "name": "xboole_1__t115_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0016760826110839844
+      ],
+      "proof_secs": 0.0016760826110839844,
+      "secs": 0.0026099681854248047
+    },
+    "xboole_1__t116_xboole_1.p": {
+      "name": "xboole_1__t116_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0002200603485107422
+      ],
+      "proof_secs": 0.0002200603485107422,
+      "secs": 0.0009481906890869141
+    },
+    "xboole_1__t11_xboole_1.p": {
+      "name": "xboole_1__t11_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.000331878662109375
+      ],
+      "proof_secs": 0.000331878662109375,
+      "secs": 0.0009212493896484375
+    },
+    "xboole_1__t12_xboole_1.p": {
+      "name": "xboole_1__t12_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.001962900161743164
+      ],
+      "proof_secs": 0.001962900161743164,
+      "secs": 0.0032601356506347656
+    },
+    "xboole_1__t13_xboole_1.p": {
+      "name": "xboole_1__t13_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0013070106506347656
+      ],
+      "proof_secs": 0.0013070106506347656,
+      "secs": 0.0024521350860595703
+    },
+    "xboole_1__t14_xboole_1.p": {
+      "name": "xboole_1__t14_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0008399486541748047
+      ],
+      "proof_secs": 0.0008399486541748047,
+      "secs": 0.0017790794372558594
+    },
+    "xboole_1__t15_xboole_1.p": {
+      "name": "xboole_1__t15_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.000492095947265625
+      ],
+      "proof_secs": 0.000492095947265625,
+      "secs": 0.001708984375
+    },
+    "xboole_1__t16_xboole_1.p": {
+      "name": "xboole_1__t16_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0015048980712890625
+      ],
+      "proof_secs": 0.0015048980712890625,
+      "secs": 0.0027871131896972656
+    },
+    "xboole_1__t17_xboole_1.p": {
+      "name": "xboole_1__t17_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.005120038986206055
+      ],
+      "proof_secs": 0.005120038986206055,
+      "secs": 0.006228923797607422
+    },
+    "xboole_1__t18_xboole_1.p": {
+      "name": "xboole_1__t18_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0006577968597412109
+      ],
+      "proof_secs": 0.0006577968597412109,
+      "secs": 0.0015118122100830078
+    },
+    "xboole_1__t19_xboole_1.p": {
+      "name": "xboole_1__t19_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0010509490966796875
+      ],
+      "proof_secs": 0.0010509490966796875,
+      "secs": 0.0027620792388916016
+    },
+    "xboole_1__t1_xboole_1.p": {
+      "name": "xboole_1__t1_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00061798095703125
+      ],
+      "proof_secs": 0.00061798095703125,
+      "secs": 0.0017588138580322266
+    },
+    "xboole_1__t20_xboole_1.p": {
+      "name": "xboole_1__t20_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0008370876312255859
+      ],
+      "proof_secs": 0.0008370876312255859,
+      "secs": 0.0019040107727050781
+    },
+    "xboole_1__t25_xboole_1.p": {
+      "name": "xboole_1__t25_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005581378936767578
+      ],
+      "proof_secs": 0.0005581378936767578,
+      "secs": 0.002187013626098633
+    },
+    "xboole_1__t26_xboole_1.p": {
+      "name": "xboole_1__t26_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0008361339569091797
+      ],
+      "proof_secs": 0.0008361339569091797,
+      "secs": 0.0022630691528320312
+    },
+    "xboole_1__t27_xboole_1.p": {
+      "name": "xboole_1__t27_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0015609264373779297
+      ],
+      "proof_secs": 0.0015609264373779297,
+      "secs": 0.002889871597290039
+    },
+    "xboole_1__t29_xboole_1.p": {
+      "name": "xboole_1__t29_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005247592926025391
+      ],
+      "proof_secs": 0.0005247592926025391,
+      "secs": 0.0018520355224609375
+    },
+    "xboole_1__t2_xboole_1.p": {
+      "name": "xboole_1__t2_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.002518892288208008
+      ],
+      "proof_secs": 0.002518892288208008,
+      "secs": 0.0034220218658447266
+    },
+    "xboole_1__t32_xboole_1.p": {
+      "name": "xboole_1__t32_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005800724029541016
+      ],
+      "proof_secs": 0.0005800724029541016,
+      "secs": 0.0019800662994384766
+    },
+    "xboole_1__t33_xboole_1.p": {
+      "name": "xboole_1__t33_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0007822513580322266
+      ],
+      "proof_secs": 0.0007822513580322266,
+      "secs": 0.002123117446899414
+    },
+    "xboole_1__t34_xboole_1.p": {
+      "name": "xboole_1__t34_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0007839202880859375
+      ],
+      "proof_secs": 0.0007839202880859375,
+      "secs": 0.0021390914916992188
+    },
+    "xboole_1__t35_xboole_1.p": {
+      "name": "xboole_1__t35_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005731582641601562
+      ],
+      "proof_secs": 0.0005731582641601562,
+      "secs": 0.0013308525085449219
+    },
+    "xboole_1__t36_xboole_1.p": {
+      "name": "xboole_1__t36_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.005239009857177734
+      ],
+      "proof_secs": 0.005239009857177734,
+      "secs": 0.006360769271850586
+    },
+    "xboole_1__t37_xboole_1.p": {
+      "name": "xboole_1__t37_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.004338979721069336
+      ],
+      "proof_secs": 0.004338979721069336,
+      "secs": 0.005353212356567383
+    },
+    "xboole_1__t38_xboole_1.p": {
+      "name": "xboole_1__t38_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0072650909423828125
+      ],
+      "proof_secs": 0.0072650909423828125,
+      "secs": 0.008964061737060547
+    },
+    "xboole_1__t3_xboole_1.p": {
+      "name": "xboole_1__t3_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0030908584594726562
+      ],
+      "proof_secs": 0.0030908584594726562,
+      "secs": 0.004141092300415039
+    },
+    "xboole_1__t4_xboole_1.p": {
+      "name": "xboole_1__t4_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0018947124481201172
+      ],
+      "proof_secs": 0.0018947124481201172,
+      "secs": 0.0033922195434570312
+    },
+    "xboole_1__t54_xboole_1.p": {
+      "name": "xboole_1__t54_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0003666877746582031
+      ],
+      "proof_secs": 0.0003666877746582031,
+      "secs": 0.001146078109741211
+    },
+    "xboole_1__t56_xboole_1.p": {
+      "name": "xboole_1__t56_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005009174346923828
+      ],
+      "proof_secs": 0.0005009174346923828,
+      "secs": 0.001276254653930664
+    },
+    "xboole_1__t57_xboole_1.p": {
+      "name": "xboole_1__t57_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0002219676971435547
+      ],
+      "proof_secs": 0.0002219676971435547,
+      "secs": 0.0008459091186523438
+    },
+    "xboole_1__t58_xboole_1.p": {
+      "name": "xboole_1__t58_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0006918907165527344
+      ],
+      "proof_secs": 0.0006918907165527344,
+      "secs": 0.001504659652709961
+    },
+    "xboole_1__t59_xboole_1.p": {
+      "name": "xboole_1__t59_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0007658004760742188
+      ],
+      "proof_secs": 0.0007658004760742188,
+      "secs": 0.0014781951904296875
+    },
+    "xboole_1__t5_xboole_1.p": {
+      "name": "xboole_1__t5_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00023603439331054688
+      ],
+      "proof_secs": 0.00023603439331054688,
+      "secs": 0.0008280277252197266
+    },
+    "xboole_1__t60_xboole_1.p": {
+      "name": "xboole_1__t60_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0009567737579345703
+      ],
+      "proof_secs": 0.0009567737579345703,
+      "secs": 0.0016460418701171875
+    },
+    "xboole_1__t61_xboole_1.p": {
+      "name": "xboole_1__t61_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.01022481918334961
+      ],
+      "proof_secs": 0.01022481918334961,
+      "secs": 0.01128077507019043
+    },
+    "xboole_1__t62_xboole_1.p": {
+      "name": "xboole_1__t62_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.001728057861328125
+      ],
+      "proof_secs": 0.001728057861328125,
+      "secs": 0.0028760433197021484
+    },
+    "xboole_1__t64_xboole_1.p": {
+      "name": "xboole_1__t64_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00043320655822753906
+      ],
+      "proof_secs": 0.00043320655822753906,
+      "secs": 0.0011630058288574219
+    },
+    "xboole_1__t65_xboole_1.p": {
+      "name": "xboole_1__t65_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.002653837203979492
+      ],
+      "proof_secs": 0.002653837203979492,
+      "secs": 0.0038683414459228516
+    },
+    "xboole_1__t66_xboole_1.p": {
+      "name": "xboole_1__t66_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0023109912872314453
+      ],
+      "proof_secs": 0.0023109912872314453,
+      "secs": 0.004457950592041016
+    },
+    "xboole_1__t68_xboole_1.p": {
+      "name": "xboole_1__t68_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0018496513366699219
+      ],
+      "proof_secs": 0.0018496513366699219,
+      "secs": 0.0036249160766601562
+    },
+    "xboole_1__t6_xboole_1.p": {
+      "name": "xboole_1__t6_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0001609325408935547
+      ],
+      "proof_secs": 0.0001609325408935547,
+      "secs": 0.0011391639709472656
+    },
+    "xboole_1__t70_xboole_1.p": {
+      "name": "xboole_1__t70_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.004133939743041992
+      ],
+      "proof_secs": 0.004133939743041992,
+      "secs": 0.005871772766113281
+    },
+    "xboole_1__t74_xboole_1.p": {
+      "name": "xboole_1__t74_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.030646800994873047
+      ],
+      "proof_secs": 0.030646800994873047,
+      "secs": 0.03214693069458008
+    },
+    "xboole_1__t75_xboole_1.p": {
+      "name": "xboole_1__t75_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.027657032012939453
+      ],
+      "proof_secs": 0.027657032012939453,
+      "secs": 0.02920699119567871
+    },
+    "xboole_1__t76_xboole_1.p": {
+      "name": "xboole_1__t76_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00036025047302246094
+      ],
+      "proof_secs": 0.00036025047302246094,
+      "secs": 0.0011949539184570312
+    },
+    "xboole_1__t7_xboole_1.p": {
+      "name": "xboole_1__t7_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.004940986633300781
+      ],
+      "proof_secs": 0.004940986633300781,
+      "secs": 0.006135702133178711
+    },
+    "xboole_1__t80_xboole_1.p": {
+      "name": "xboole_1__t80_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0010790824890136719
+      ],
+      "proof_secs": 0.0010790824890136719,
+      "secs": 0.0030100345611572266
+    },
+    "xboole_1__t82_xboole_1.p": {
+      "name": "xboole_1__t82_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.01575779914855957
+      ],
+      "proof_secs": 0.01575779914855957,
+      "secs": 0.01788020133972168
+    },
+    "xboole_1__t87_xboole_1.p": {
+      "name": "xboole_1__t87_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0004980564117431641
+      ],
+      "proof_secs": 0.0004980564117431641,
+      "secs": 0.0014328956604003906
+    },
+    "xboole_1__t8_xboole_1.p": {
+      "name": "xboole_1__t8_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0011823177337646484
+      ],
+      "proof_secs": 0.0011823177337646484,
+      "secs": 0.002391815185546875
+    },
+    "xboole_1__t90_xboole_1.p": {
+      "name": "xboole_1__t90_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005753040313720703
+      ],
+      "proof_secs": 0.0005753040313720703,
+      "secs": 0.002148151397705078
+    },
+    "xboole_1__t93_xboole_1.p": {
+      "name": "xboole_1__t93_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0004210472106933594
+      ],
+      "proof_secs": 0.0004210472106933594,
+      "secs": 0.002079010009765625
+    },
+    "xboole_1__t96_xboole_1.p": {
+      "name": "xboole_1__t96_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00028896331787109375
+      ],
+      "proof_secs": 0.00028896331787109375,
+      "secs": 0.0013697147369384766
+    },
+    "xboole_1__t97_xboole_1.p": {
+      "name": "xboole_1__t97_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0006136894226074219
+      ],
+      "proof_secs": 0.0006136894226074219,
+      "secs": 0.0014529228210449219
+    },
+    "xboole_1__t99_xboole_1.p": {
+      "name": "xboole_1__t99_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0007898807525634766
+      ],
+      "proof_secs": 0.0007898807525634766,
+      "secs": 0.002553224563598633
+    },
+    "xboole_1__t9_xboole_1.p": {
+      "name": "xboole_1__t9_xboole_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0009832382202148438
+      ],
+      "proof_secs": 0.0009832382202148438,
+      "secs": 0.002584218978881836
+    },
+    "yellow_0__t15_yellow_0.p": {
+      "name": "yellow_0__t15_yellow_0.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.029850006103515625
+      ],
+      "proof_secs": 0.029850006103515625,
+      "secs": 0.03221702575683594
+    },
+    "yellow_0__t16_yellow_0.p": {
+      "name": "yellow_0__t16_yellow_0.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.025142192840576172
+      ],
+      "proof_secs": 0.025142192840576172,
+      "secs": 0.02691507339477539
+    },
+    "yellow_0__t30_yellow_0.p": {
+      "name": "yellow_0__t30_yellow_0.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.040148019790649414
+      ],
+      "proof_secs": 0.040148019790649414,
+      "secs": 0.0421450138092041
+    },
+    "yellow_0__t31_yellow_0.p": {
+      "name": "yellow_0__t31_yellow_0.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.03699493408203125
+      ],
+      "proof_secs": 0.03699493408203125,
+      "secs": 0.03882598876953125
+    },
+    "zfmisc_1__t100_zfmisc_1.p": {
+      "name": "zfmisc_1__t100_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.009364843368530273
+      ],
+      "proof_secs": 0.009364843368530273,
+      "secs": 0.01108098030090332
+    },
+    "zfmisc_1__t103_zfmisc_1.p": {
+      "name": "zfmisc_1__t103_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.001977682113647461
+      ],
+      "proof_secs": 0.001977682113647461,
+      "secs": 0.0045816898345947266
+    },
+    "zfmisc_1__t106_zfmisc_1.p": {
+      "name": "zfmisc_1__t106_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0016129016876220703
+      ],
+      "proof_secs": 0.0016129016876220703,
+      "secs": 0.0032739639282226562
+    },
+    "zfmisc_1__t107_zfmisc_1.p": {
+      "name": "zfmisc_1__t107_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0011987686157226562
+      ],
+      "proof_secs": 0.0011987686157226562,
+      "secs": 0.003011941909790039
+    },
+    "zfmisc_1__t108_zfmisc_1.p": {
+      "name": "zfmisc_1__t108_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.009884119033813477
+      ],
+      "proof_secs": 0.009884119033813477,
+      "secs": 0.01168203353881836
+    },
+    "zfmisc_1__t10_zfmisc_1.p": {
+      "name": "zfmisc_1__t10_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.013934850692749023
+      ],
+      "proof_secs": 0.013934850692749023,
+      "secs": 0.016160011291503906
+    },
+    "zfmisc_1__t113_zfmisc_1.p": {
+      "name": "zfmisc_1__t113_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0018312931060791016
+      ],
+      "proof_secs": 0.0018312931060791016,
+      "secs": 0.003451824188232422
+    },
+    "zfmisc_1__t114_zfmisc_1.p": {
+      "name": "zfmisc_1__t114_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0017158985137939453
+      ],
+      "proof_secs": 0.0017158985137939453,
+      "secs": 0.003164052963256836
+    },
+    "zfmisc_1__t115_zfmisc_1.p": {
+      "name": "zfmisc_1__t115_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005300045013427734
+      ],
+      "proof_secs": 0.0005300045013427734,
+      "secs": 0.0022308826446533203
+    },
+    "zfmisc_1__t117_zfmisc_1.p": {
+      "name": "zfmisc_1__t117_zfmisc_1.p",
+      "ok": true,
+      "wins": 0,
+      "total": 1,
+      "ratio": 0.0,
+      "times": [
+        0.06310391426086426
+      ],
+      "proof_secs": 0.06310391426086426,
+      "secs": 0.06476807594299316
+    },
+    "zfmisc_1__t118_zfmisc_1.p": {
+      "name": "zfmisc_1__t118_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0011167526245117188
+      ],
+      "proof_secs": 0.0011167526245117188,
+      "secs": 0.0023670196533203125
+    },
+    "zfmisc_1__t119_zfmisc_1.p": {
+      "name": "zfmisc_1__t119_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005128383636474609
+      ],
+      "proof_secs": 0.0005128383636474609,
+      "secs": 0.0012507438659667969
+    },
+    "zfmisc_1__t121_zfmisc_1.p": {
+      "name": "zfmisc_1__t121_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005390644073486328
+      ],
+      "proof_secs": 0.0005390644073486328,
+      "secs": 0.0015070438385009766
+    },
+    "zfmisc_1__t124_zfmisc_1.p": {
+      "name": "zfmisc_1__t124_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0010440349578857422
+      ],
+      "proof_secs": 0.0010440349578857422,
+      "secs": 0.002031087875366211
+    },
+    "zfmisc_1__t128_zfmisc_1.p": {
+      "name": "zfmisc_1__t128_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.002624988555908203
+      ],
+      "proof_secs": 0.002624988555908203,
+      "secs": 0.0036079883575439453
+    },
+    "zfmisc_1__t129_zfmisc_1.p": {
+      "name": "zfmisc_1__t129_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0023610591888427734
+      ],
+      "proof_secs": 0.0023610591888427734,
+      "secs": 0.00374603271484375
+    },
+    "zfmisc_1__t12_zfmisc_1.p": {
+      "name": "zfmisc_1__t12_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.010039091110229492
+      ],
+      "proof_secs": 0.010039091110229492,
+      "secs": 0.01129007339477539
+    },
+    "zfmisc_1__t130_zfmisc_1.p": {
+      "name": "zfmisc_1__t130_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.005314826965332031
+      ],
+      "proof_secs": 0.005314826965332031,
+      "secs": 0.006487131118774414
+    },
+    "zfmisc_1__t131_zfmisc_1.p": {
+      "name": "zfmisc_1__t131_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0038199424743652344
+      ],
+      "proof_secs": 0.0038199424743652344,
+      "secs": 0.005098104476928711
+    },
+    "zfmisc_1__t134_zfmisc_1.p": {
+      "name": "zfmisc_1__t134_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0015249252319335938
+      ],
+      "proof_secs": 0.0015249252319335938,
+      "secs": 0.003197908401489258
+    },
+    "zfmisc_1__t136_zfmisc_1.p": {
+      "name": "zfmisc_1__t136_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.030531644821166992
+      ],
+      "proof_secs": 0.030531644821166992,
+      "secs": 0.03305673599243164
+    },
+    "zfmisc_1__t137_zfmisc_1.p": {
+      "name": "zfmisc_1__t137_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0016121864318847656
+      ],
+      "proof_secs": 0.0016121864318847656,
+      "secs": 0.0030150413513183594
+    },
+    "zfmisc_1__t139_zfmisc_1.p": {
+      "name": "zfmisc_1__t139_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0008089542388916016
+      ],
+      "proof_secs": 0.0008089542388916016,
+      "secs": 0.002337932586669922
+    },
+    "zfmisc_1__t13_zfmisc_1.p": {
+      "name": "zfmisc_1__t13_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005919933319091797
+      ],
+      "proof_secs": 0.0005919933319091797,
+      "secs": 0.0021560192108154297
+    },
+    "zfmisc_1__t143_zfmisc_1.p": {
+      "name": "zfmisc_1__t143_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00168609619140625
+      ],
+      "proof_secs": 0.00168609619140625,
+      "secs": 0.002933025360107422
+    },
+    "zfmisc_1__t151_zfmisc_1.p": {
+      "name": "zfmisc_1__t151_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.004042863845825195
+      ],
+      "proof_secs": 0.004042863845825195,
+      "secs": 0.0052490234375
+    },
+    "zfmisc_1__t153_zfmisc_1.p": {
+      "name": "zfmisc_1__t153_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.02067708969116211
+      ],
+      "proof_secs": 0.02067708969116211,
+      "secs": 0.02206897735595703
+    },
+    "zfmisc_1__t154_zfmisc_1.p": {
+      "name": "zfmisc_1__t154_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0015680789947509766
+      ],
+      "proof_secs": 0.0015680789947509766,
+      "secs": 0.0033338069915771484
+    },
+    "zfmisc_1__t16_zfmisc_1.p": {
+      "name": "zfmisc_1__t16_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.007598161697387695
+      ],
+      "proof_secs": 0.007598161697387695,
+      "secs": 0.008564949035644531
+    },
+    "zfmisc_1__t17_zfmisc_1.p": {
+      "name": "zfmisc_1__t17_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.014184951782226562
+      ],
+      "proof_secs": 0.014184951782226562,
+      "secs": 0.015362024307250977
+    },
+    "zfmisc_1__t18_zfmisc_1.p": {
+      "name": "zfmisc_1__t18_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005857944488525391
+      ],
+      "proof_secs": 0.0005857944488525391,
+      "secs": 0.0017278194427490234
+    },
+    "zfmisc_1__t1_zfmisc_1.p": {
+      "name": "zfmisc_1__t1_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.007116794586181641
+      ],
+      "proof_secs": 0.007116794586181641,
+      "secs": 0.008552789688110352
+    },
+    "zfmisc_1__t20_zfmisc_1.p": {
+      "name": "zfmisc_1__t20_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.01628589630126953
+      ],
+      "proof_secs": 0.01628589630126953,
+      "secs": 0.017477989196777344
+    },
+    "zfmisc_1__t21_zfmisc_1.p": {
+      "name": "zfmisc_1__t21_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005381107330322266
+      ],
+      "proof_secs": 0.0005381107330322266,
+      "secs": 0.00168609619140625
+    },
+    "zfmisc_1__t24_zfmisc_1.p": {
+      "name": "zfmisc_1__t24_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0003540515899658203
+      ],
+      "proof_secs": 0.0003540515899658203,
+      "secs": 0.0011639595031738281
+    },
+    "zfmisc_1__t25_zfmisc_1.p": {
+      "name": "zfmisc_1__t25_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.01306915283203125
+      ],
+      "proof_secs": 0.01306915283203125,
+      "secs": 0.014610052108764648
+    },
+    "zfmisc_1__t26_zfmisc_1.p": {
+      "name": "zfmisc_1__t26_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0016021728515625
+      ],
+      "proof_secs": 0.0016021728515625,
+      "secs": 0.0030968189239501953
+    },
+    "zfmisc_1__t27_zfmisc_1.p": {
+      "name": "zfmisc_1__t27_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0006210803985595703
+      ],
+      "proof_secs": 0.0006210803985595703,
+      "secs": 0.001554250717163086
+    },
+    "zfmisc_1__t2_zfmisc_1.p": {
+      "name": "zfmisc_1__t2_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.006667137145996094
+      ],
+      "proof_secs": 0.006667137145996094,
+      "secs": 0.007641792297363281
+    },
+    "zfmisc_1__t31_zfmisc_1.p": {
+      "name": "zfmisc_1__t31_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.02070474624633789
+      ],
+      "proof_secs": 0.02070474624633789,
+      "secs": 0.022145986557006836
+    },
+    "zfmisc_1__t34_zfmisc_1.p": {
+      "name": "zfmisc_1__t34_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.010644912719726562
+      ],
+      "proof_secs": 0.010644912719726562,
+      "secs": 0.01191401481628418
+    },
+    "zfmisc_1__t35_zfmisc_1.p": {
+      "name": "zfmisc_1__t35_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.009754657745361328
+      ],
+      "proof_secs": 0.009754657745361328,
+      "secs": 0.011268854141235352
+    },
+    "zfmisc_1__t37_zfmisc_1.p": {
+      "name": "zfmisc_1__t37_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.003800630569458008
+      ],
+      "proof_secs": 0.003800630569458008,
+      "secs": 0.005076885223388672
+    },
+    "zfmisc_1__t38_zfmisc_1.p": {
+      "name": "zfmisc_1__t38_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.03361773490905762
+      ],
+      "proof_secs": 0.03361773490905762,
+      "secs": 0.03500795364379883
+    },
+    "zfmisc_1__t39_zfmisc_1.p": {
+      "name": "zfmisc_1__t39_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.008323907852172852
+      ],
+      "proof_secs": 0.008323907852172852,
+      "secs": 0.009308815002441406
+    },
+    "zfmisc_1__t40_zfmisc_1.p": {
+      "name": "zfmisc_1__t40_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0007860660552978516
+      ],
+      "proof_secs": 0.0007860660552978516,
+      "secs": 0.001850128173828125
+    },
+    "zfmisc_1__t41_zfmisc_1.p": {
+      "name": "zfmisc_1__t41_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0045130252838134766
+      ],
+      "proof_secs": 0.0045130252838134766,
+      "secs": 0.006093740463256836
+    },
+    "zfmisc_1__t42_zfmisc_1.p": {
+      "name": "zfmisc_1__t42_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.011223077774047852
+      ],
+      "proof_secs": 0.011223077774047852,
+      "secs": 0.012743234634399414
+    },
+    "zfmisc_1__t44_zfmisc_1.p": {
+      "name": "zfmisc_1__t44_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0025811195373535156
+      ],
+      "proof_secs": 0.0025811195373535156,
+      "secs": 0.00409388542175293
+    },
+    "zfmisc_1__t45_zfmisc_1.p": {
+      "name": "zfmisc_1__t45_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0027008056640625
+      ],
+      "proof_secs": 0.0027008056640625,
+      "secs": 0.003968954086303711
+    },
+    "zfmisc_1__t46_zfmisc_1.p": {
+      "name": "zfmisc_1__t46_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0004942417144775391
+      ],
+      "proof_secs": 0.0004942417144775391,
+      "secs": 0.0015742778778076172
+    },
+    "zfmisc_1__t51_zfmisc_1.p": {
+      "name": "zfmisc_1__t51_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0027561187744140625
+      ],
+      "proof_secs": 0.0027561187744140625,
+      "secs": 0.0037529468536376953
+    },
+    "zfmisc_1__t52_zfmisc_1.p": {
+      "name": "zfmisc_1__t52_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005130767822265625
+      ],
+      "proof_secs": 0.0005130767822265625,
+      "secs": 0.0018067359924316406
+    },
+    "zfmisc_1__t54_zfmisc_1.p": {
+      "name": "zfmisc_1__t54_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0018460750579833984
+      ],
+      "proof_secs": 0.0018460750579833984,
+      "secs": 0.0028259754180908203
+    },
+    "zfmisc_1__t56_zfmisc_1.p": {
+      "name": "zfmisc_1__t56_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.00560307502746582
+      ],
+      "proof_secs": 0.00560307502746582,
+      "secs": 0.0066089630126953125
+    },
+    "zfmisc_1__t64_zfmisc_1.p": {
+      "name": "zfmisc_1__t64_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.003737926483154297
+      ],
+      "proof_secs": 0.003737926483154297,
+      "secs": 0.005831003189086914
+    },
+    "zfmisc_1__t66_zfmisc_1.p": {
+      "name": "zfmisc_1__t66_zfmisc_1.p",
+      "ok": true,
+      "wins": 0,
+      "total": 1,
+      "ratio": 0.0,
+      "times": [
+        0.016696929931640625
+      ],
+      "proof_secs": 0.016696929931640625,
+      "secs": 0.018637895584106445
+    },
+    "zfmisc_1__t67_zfmisc_1.p": {
+      "name": "zfmisc_1__t67_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0032761096954345703
+      ],
+      "proof_secs": 0.0032761096954345703,
+      "secs": 0.004395008087158203
+    },
+    "zfmisc_1__t68_zfmisc_1.p": {
+      "name": "zfmisc_1__t68_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.005175113677978516
+      ],
+      "proof_secs": 0.005175113677978516,
+      "secs": 0.007528066635131836
+    },
+    "zfmisc_1__t69_zfmisc_1.p": {
+      "name": "zfmisc_1__t69_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0007231235504150391
+      ],
+      "proof_secs": 0.0007231235504150391,
+      "secs": 0.001973867416381836
+    },
+    "zfmisc_1__t6_zfmisc_1.p": {
+      "name": "zfmisc_1__t6_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.007161855697631836
+      ],
+      "proof_secs": 0.007161855697631836,
+      "secs": 0.00844120979309082
+    },
+    "zfmisc_1__t79_zfmisc_1.p": {
+      "name": "zfmisc_1__t79_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0010159015655517578
+      ],
+      "proof_secs": 0.0010159015655517578,
+      "secs": 0.0021839141845703125
+    },
+    "zfmisc_1__t80_zfmisc_1.p": {
+      "name": "zfmisc_1__t80_zfmisc_1.p",
+      "ok": true,
+      "wins": 0,
+      "total": 1,
+      "ratio": 0.0,
+      "times": [
+        0.009393930435180664
+      ],
+      "proof_secs": 0.009393930435180664,
+      "secs": 0.010383844375610352
+    },
+    "zfmisc_1__t8_zfmisc_1.p": {
+      "name": "zfmisc_1__t8_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0009479522705078125
+      ],
+      "proof_secs": 0.0009479522705078125,
+      "secs": 0.002105236053466797
+    },
+    "zfmisc_1__t92_zfmisc_1.p": {
+      "name": "zfmisc_1__t92_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0012271404266357422
+      ],
+      "proof_secs": 0.0012271404266357422,
+      "secs": 0.0020117759704589844
+    },
+    "zfmisc_1__t94_zfmisc_1.p": {
+      "name": "zfmisc_1__t94_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.004328012466430664
+      ],
+      "proof_secs": 0.004328012466430664,
+      "secs": 0.005371809005737305
+    },
+    "zfmisc_1__t95_zfmisc_1.p": {
+      "name": "zfmisc_1__t95_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.0005002021789550781
+      ],
+      "proof_secs": 0.0005002021789550781,
+      "secs": 0.0016009807586669922
+    },
+    "zfmisc_1__t9_zfmisc_1.p": {
+      "name": "zfmisc_1__t9_zfmisc_1.p",
+      "ok": true,
+      "wins": 1,
+      "total": 1,
+      "ratio": 100.0,
+      "times": [
+        0.000621795654296875
+      ],
+      "proof_secs": 0.000621795654296875,
+      "secs": 0.001501321792602539
+    }
+  }
+}

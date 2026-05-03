@@ -1,0 +1,5058 @@
+{
+  "timestamp": "2026-05-03T13:28:50.369901",
+  "folder": "mptp2078_problems",
+  "files_processed": 336,
+  "files_successful": 336,
+  "total_sequents": 336,
+  "total_proved": 328,
+  "overall_success_rate": 97.61904761904762,
+  "timing": {
+    "total_proof_time": 1.679666519165039,
+    "total_elapsed_time": 2.4635770320892334,
+    "average_time_per_sequent": 0.004999007497514997,
+    "start_time": "2026-05-03T13:28:50.370794",
+    "end_time": "2026-05-03T13:28:50.370796"
+  },
+  "results": {
+    "enumset1__t100_enumset1.p": {
+      "file": "enumset1__t100_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00013971328735351562
+      ],
+      "total_proof_time": 0.00013971328735351562,
+      "elapsed_time": 0.0013530254364013672
+    },
+    "enumset1__t102_enumset1.p": {
+      "file": "enumset1__t102_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        4.100799560546875e-05
+      ],
+      "total_proof_time": 4.100799560546875e-05,
+      "elapsed_time": 0.0008349418640136719
+    },
+    "enumset1__t103_enumset1.p": {
+      "file": "enumset1__t103_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        7.009506225585938e-05
+      ],
+      "total_proof_time": 7.009506225585938e-05,
+      "elapsed_time": 0.0008060932159423828
+    },
+    "enumset1__t104_enumset1.p": {
+      "file": "enumset1__t104_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        4.1961669921875e-05
+      ],
+      "total_proof_time": 4.1961669921875e-05,
+      "elapsed_time": 0.0012819766998291016
+    },
+    "enumset1__t105_enumset1.p": {
+      "file": "enumset1__t105_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00016021728515625
+      ],
+      "total_proof_time": 0.00016021728515625,
+      "elapsed_time": 0.0020422935485839844
+    },
+    "enumset1__t107_enumset1.p": {
+      "file": "enumset1__t107_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00012063980102539062
+      ],
+      "total_proof_time": 0.00012063980102539062,
+      "elapsed_time": 0.001271963119506836
+    },
+    "enumset1__t108_enumset1.p": {
+      "file": "enumset1__t108_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0001270771026611328
+      ],
+      "total_proof_time": 0.0001270771026611328,
+      "elapsed_time": 0.003988027572631836
+    },
+    "enumset1__t109_enumset1.p": {
+      "file": "enumset1__t109_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00013780593872070312
+      ],
+      "total_proof_time": 0.00013780593872070312,
+      "elapsed_time": 0.0014209747314453125
+    },
+    "enumset1__t110_enumset1.p": {
+      "file": "enumset1__t110_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0001671314239501953
+      ],
+      "total_proof_time": 0.0001671314239501953,
+      "elapsed_time": 0.0019690990447998047
+    },
+    "enumset1__t111_enumset1.p": {
+      "file": "enumset1__t111_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00011420249938964844
+      ],
+      "total_proof_time": 0.00011420249938964844,
+      "elapsed_time": 0.0031359195709228516
+    },
+    "enumset1__t112_enumset1.p": {
+      "file": "enumset1__t112_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0001533031463623047
+      ],
+      "total_proof_time": 0.0001533031463623047,
+      "elapsed_time": 0.004025936126708984
+    },
+    "enumset1__t113_enumset1.p": {
+      "file": "enumset1__t113_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00018978118896484375
+      ],
+      "total_proof_time": 0.00018978118896484375,
+      "elapsed_time": 0.0024089813232421875
+    },
+    "enumset1__t116_enumset1.p": {
+      "file": "enumset1__t116_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00021505355834960938
+      ],
+      "total_proof_time": 0.00021505355834960938,
+      "elapsed_time": 0.012543916702270508
+    },
+    "enumset1__t117_enumset1.p": {
+      "file": "enumset1__t117_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        5.0067901611328125e-05
+      ],
+      "total_proof_time": 5.0067901611328125e-05,
+      "elapsed_time": 0.0033416748046875
+    },
+    "enumset1__t118_enumset1.p": {
+      "file": "enumset1__t118_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0003552436828613281
+      ],
+      "total_proof_time": 0.0003552436828613281,
+      "elapsed_time": 0.0024449825286865234
+    },
+    "enumset1__t119_enumset1.p": {
+      "file": "enumset1__t119_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        5.125999450683594e-05
+      ],
+      "total_proof_time": 5.125999450683594e-05,
+      "elapsed_time": 0.0037293434143066406
+    },
+    "enumset1__t123_enumset1.p": {
+      "file": "enumset1__t123_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0003447532653808594
+      ],
+      "total_proof_time": 0.0003447532653808594,
+      "elapsed_time": 0.004875898361206055
+    },
+    "enumset1__t125_enumset1.p": {
+      "file": "enumset1__t125_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        4.887580871582031e-05
+      ],
+      "total_proof_time": 4.887580871582031e-05,
+      "elapsed_time": 0.0014438629150390625
+    },
+    "enumset1__t127_enumset1.p": {
+      "file": "enumset1__t127_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00030112266540527344
+      ],
+      "total_proof_time": 0.00030112266540527344,
+      "elapsed_time": 0.0031011104583740234
+    },
+    "enumset1__t128_enumset1.p": {
+      "file": "enumset1__t128_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00021696090698242188
+      ],
+      "total_proof_time": 0.00021696090698242188,
+      "elapsed_time": 0.0071201324462890625
+    },
+    "enumset1__t129_enumset1.p": {
+      "file": "enumset1__t129_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        7.82012939453125e-05
+      ],
+      "total_proof_time": 7.82012939453125e-05,
+      "elapsed_time": 0.0022211074829101562
+    },
+    "enumset1__t130_enumset1.p": {
+      "file": "enumset1__t130_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00019788742065429688
+      ],
+      "total_proof_time": 0.00019788742065429688,
+      "elapsed_time": 0.0026400089263916016
+    },
+    "enumset1__t131_enumset1.p": {
+      "file": "enumset1__t131_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0001590251922607422
+      ],
+      "total_proof_time": 0.0001590251922607422,
+      "elapsed_time": 0.0024230480194091797
+    },
+    "enumset1__t134_enumset1.p": {
+      "file": "enumset1__t134_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0003199577331542969
+      ],
+      "total_proof_time": 0.0003199577331542969,
+      "elapsed_time": 0.005333900451660156
+    },
+    "enumset1__t135_enumset1.p": {
+      "file": "enumset1__t135_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0036363601684570312
+      ],
+      "total_proof_time": 0.0036363601684570312,
+      "elapsed_time": 0.010878324508666992
+    },
+    "enumset1__t41_enumset1.p": {
+      "file": "enumset1__t41_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0009629726409912109
+      ],
+      "total_proof_time": 0.0009629726409912109,
+      "elapsed_time": 0.003050088882446289
+    },
+    "enumset1__t42_enumset1.p": {
+      "file": "enumset1__t42_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0010962486267089844
+      ],
+      "total_proof_time": 0.0010962486267089844,
+      "elapsed_time": 0.0049152374267578125
+    },
+    "enumset1__t43_enumset1.p": {
+      "file": "enumset1__t43_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00011110305786132812
+      ],
+      "total_proof_time": 0.00011110305786132812,
+      "elapsed_time": 0.001828908920288086
+    },
+    "enumset1__t44_enumset1.p": {
+      "file": "enumset1__t44_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0001537799835205078
+      ],
+      "total_proof_time": 0.0001537799835205078,
+      "elapsed_time": 0.00406193733215332
+    },
+    "enumset1__t45_enumset1.p": {
+      "file": "enumset1__t45_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        6.985664367675781e-05
+      ],
+      "total_proof_time": 6.985664367675781e-05,
+      "elapsed_time": 0.0014178752899169922
+    },
+    "enumset1__t46_enumset1.p": {
+      "file": "enumset1__t46_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0001380443572998047
+      ],
+      "total_proof_time": 0.0001380443572998047,
+      "elapsed_time": 0.0023720264434814453
+    },
+    "enumset1__t47_enumset1.p": {
+      "file": "enumset1__t47_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00011086463928222656
+      ],
+      "total_proof_time": 0.00011086463928222656,
+      "elapsed_time": 0.002576112747192383
+    },
+    "enumset1__t48_enumset1.p": {
+      "file": "enumset1__t48_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        5.698204040527344e-05
+      ],
+      "total_proof_time": 5.698204040527344e-05,
+      "elapsed_time": 0.0042040348052978516
+    },
+    "enumset1__t49_enumset1.p": {
+      "file": "enumset1__t49_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        5.0067901611328125e-05
+      ],
+      "total_proof_time": 5.0067901611328125e-05,
+      "elapsed_time": 0.001050710678100586
+    },
+    "enumset1__t50_enumset1.p": {
+      "file": "enumset1__t50_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0001609325408935547
+      ],
+      "total_proof_time": 0.0001609325408935547,
+      "elapsed_time": 0.0032417774200439453
+    },
+    "enumset1__t51_enumset1.p": {
+      "file": "enumset1__t51_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00015425682067871094
+      ],
+      "total_proof_time": 0.00015425682067871094,
+      "elapsed_time": 0.0030808448791503906
+    },
+    "enumset1__t52_enumset1.p": {
+      "file": "enumset1__t52_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0001609325408935547
+      ],
+      "total_proof_time": 0.0001609325408935547,
+      "elapsed_time": 0.00465083122253418
+    },
+    "enumset1__t53_enumset1.p": {
+      "file": "enumset1__t53_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00013303756713867188
+      ],
+      "total_proof_time": 0.00013303756713867188,
+      "elapsed_time": 0.00140380859375
+    },
+    "enumset1__t54_enumset1.p": {
+      "file": "enumset1__t54_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0001728534698486328
+      ],
+      "total_proof_time": 0.0001728534698486328,
+      "elapsed_time": 0.004697084426879883
+    },
+    "enumset1__t55_enumset1.p": {
+      "file": "enumset1__t55_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00017499923706054688
+      ],
+      "total_proof_time": 0.00017499923706054688,
+      "elapsed_time": 0.005355119705200195
+    },
+    "enumset1__t56_enumset1.p": {
+      "file": "enumset1__t56_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00020599365234375
+      ],
+      "total_proof_time": 0.00020599365234375,
+      "elapsed_time": 0.004767894744873047
+    },
+    "enumset1__t57_enumset1.p": {
+      "file": "enumset1__t57_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        7.104873657226562e-05
+      ],
+      "total_proof_time": 7.104873657226562e-05,
+      "elapsed_time": 0.008079767227172852
+    },
+    "enumset1__t58_enumset1.p": {
+      "file": "enumset1__t58_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00021195411682128906
+      ],
+      "total_proof_time": 0.00021195411682128906,
+      "elapsed_time": 0.001950979232788086
+    },
+    "enumset1__t59_enumset1.p": {
+      "file": "enumset1__t59_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        8.821487426757812e-05
+      ],
+      "total_proof_time": 8.821487426757812e-05,
+      "elapsed_time": 0.0038590431213378906
+    },
+    "enumset1__t62_enumset1.p": {
+      "file": "enumset1__t62_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0002181529998779297
+      ],
+      "total_proof_time": 0.0002181529998779297,
+      "elapsed_time": 0.00766301155090332
+    },
+    "enumset1__t63_enumset1.p": {
+      "file": "enumset1__t63_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        7.200241088867188e-05
+      ],
+      "total_proof_time": 7.200241088867188e-05,
+      "elapsed_time": 0.0032110214233398438
+    },
+    "enumset1__t64_enumset1.p": {
+      "file": "enumset1__t64_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0001819133758544922
+      ],
+      "total_proof_time": 0.0001819133758544922,
+      "elapsed_time": 0.0030930042266845703
+    },
+    "enumset1__t65_enumset1.p": {
+      "file": "enumset1__t65_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        7.295608520507812e-05
+      ],
+      "total_proof_time": 7.295608520507812e-05,
+      "elapsed_time": 0.004064083099365234
+    },
+    "enumset1__t66_enumset1.p": {
+      "file": "enumset1__t66_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00021409988403320312
+      ],
+      "total_proof_time": 0.00021409988403320312,
+      "elapsed_time": 0.0027489662170410156
+    },
+    "enumset1__t67_enumset1.p": {
+      "file": "enumset1__t67_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00016379356384277344
+      ],
+      "total_proof_time": 0.00016379356384277344,
+      "elapsed_time": 0.002682924270629883
+    },
+    "enumset1__t68_enumset1.p": {
+      "file": "enumset1__t68_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0003371238708496094
+      ],
+      "total_proof_time": 0.0003371238708496094,
+      "elapsed_time": 0.0031130313873291016
+    },
+    "enumset1__t69_enumset1.p": {
+      "file": "enumset1__t69_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0006399154663085938
+      ],
+      "total_proof_time": 0.0006399154663085938,
+      "elapsed_time": 0.004111051559448242
+    },
+    "enumset1__t70_enumset1.p": {
+      "file": "enumset1__t70_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        4.00543212890625e-05
+      ],
+      "total_proof_time": 4.00543212890625e-05,
+      "elapsed_time": 0.0009691715240478516
+    },
+    "enumset1__t71_enumset1.p": {
+      "file": "enumset1__t71_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00011086463928222656
+      ],
+      "total_proof_time": 0.00011086463928222656,
+      "elapsed_time": 0.0022749900817871094
+    },
+    "enumset1__t72_enumset1.p": {
+      "file": "enumset1__t72_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        5.316734313964844e-05
+      ],
+      "total_proof_time": 5.316734313964844e-05,
+      "elapsed_time": 0.0019791126251220703
+    },
+    "enumset1__t73_enumset1.p": {
+      "file": "enumset1__t73_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        5.1021575927734375e-05
+      ],
+      "total_proof_time": 5.1021575927734375e-05,
+      "elapsed_time": 0.0012469291687011719
+    },
+    "enumset1__t74_enumset1.p": {
+      "file": "enumset1__t74_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        6.127357482910156e-05
+      ],
+      "total_proof_time": 6.127357482910156e-05,
+      "elapsed_time": 0.002959728240966797
+    },
+    "enumset1__t75_enumset1.p": {
+      "file": "enumset1__t75_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        5.6743621826171875e-05
+      ],
+      "total_proof_time": 5.6743621826171875e-05,
+      "elapsed_time": 0.0013060569763183594
+    },
+    "enumset1__t76_enumset1.p": {
+      "file": "enumset1__t76_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        2.7179718017578125e-05
+      ],
+      "total_proof_time": 2.7179718017578125e-05,
+      "elapsed_time": 0.0006310939788818359
+    },
+    "enumset1__t77_enumset1.p": {
+      "file": "enumset1__t77_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        2.7894973754882812e-05
+      ],
+      "total_proof_time": 2.7894973754882812e-05,
+      "elapsed_time": 0.0008480548858642578
+    },
+    "enumset1__t78_enumset1.p": {
+      "file": "enumset1__t78_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        7.510185241699219e-05
+      ],
+      "total_proof_time": 7.510185241699219e-05,
+      "elapsed_time": 0.0007266998291015625
+    },
+    "enumset1__t79_enumset1.p": {
+      "file": "enumset1__t79_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0001380443572998047
+      ],
+      "total_proof_time": 0.0001380443572998047,
+      "elapsed_time": 0.0019850730895996094
+    },
+    "enumset1__t80_enumset1.p": {
+      "file": "enumset1__t80_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00015020370483398438
+      ],
+      "total_proof_time": 0.00015020370483398438,
+      "elapsed_time": 0.0012371540069580078
+    },
+    "enumset1__t81_enumset1.p": {
+      "file": "enumset1__t81_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        7.200241088867188e-05
+      ],
+      "total_proof_time": 7.200241088867188e-05,
+      "elapsed_time": 0.0010101795196533203
+    },
+    "enumset1__t82_enumset1.p": {
+      "file": "enumset1__t82_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        8.511543273925781e-05
+      ],
+      "total_proof_time": 8.511543273925781e-05,
+      "elapsed_time": 0.001425027847290039
+    },
+    "enumset1__t83_enumset1.p": {
+      "file": "enumset1__t83_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00010800361633300781
+      ],
+      "total_proof_time": 0.00010800361633300781,
+      "elapsed_time": 0.0028569698333740234
+    },
+    "enumset1__t84_enumset1.p": {
+      "file": "enumset1__t84_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        4.291534423828125e-05
+      ],
+      "total_proof_time": 4.291534423828125e-05,
+      "elapsed_time": 0.0009620189666748047
+    },
+    "enumset1__t85_enumset1.p": {
+      "file": "enumset1__t85_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        5.078315734863281e-05
+      ],
+      "total_proof_time": 5.078315734863281e-05,
+      "elapsed_time": 0.0012826919555664062
+    },
+    "enumset1__t86_enumset1.p": {
+      "file": "enumset1__t86_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00017786026000976562
+      ],
+      "total_proof_time": 0.00017786026000976562,
+      "elapsed_time": 0.0031998157501220703
+    },
+    "enumset1__t87_enumset1.p": {
+      "file": "enumset1__t87_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        8.416175842285156e-05
+      ],
+      "total_proof_time": 8.416175842285156e-05,
+      "elapsed_time": 0.003253936767578125
+    },
+    "enumset1__t88_enumset1.p": {
+      "file": "enumset1__t88_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        4.220008850097656e-05
+      ],
+      "total_proof_time": 4.220008850097656e-05,
+      "elapsed_time": 0.0031158924102783203
+    },
+    "enumset1__t89_enumset1.p": {
+      "file": "enumset1__t89_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        8.702278137207031e-05
+      ],
+      "total_proof_time": 8.702278137207031e-05,
+      "elapsed_time": 0.0018112659454345703
+    },
+    "enumset1__t90_enumset1.p": {
+      "file": "enumset1__t90_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00012421607971191406
+      ],
+      "total_proof_time": 0.00012421607971191406,
+      "elapsed_time": 0.0020742416381835938
+    },
+    "enumset1__t91_enumset1.p": {
+      "file": "enumset1__t91_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        3.1948089599609375e-05
+      ],
+      "total_proof_time": 3.1948089599609375e-05,
+      "elapsed_time": 0.0016658306121826172
+    },
+    "enumset1__t92_enumset1.p": {
+      "file": "enumset1__t92_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        3.218650817871094e-05
+      ],
+      "total_proof_time": 3.218650817871094e-05,
+      "elapsed_time": 0.0009291172027587891
+    },
+    "enumset1__t93_enumset1.p": {
+      "file": "enumset1__t93_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        6.079673767089844e-05
+      ],
+      "total_proof_time": 6.079673767089844e-05,
+      "elapsed_time": 0.0010328292846679688
+    },
+    "enumset1__t94_enumset1.p": {
+      "file": "enumset1__t94_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        2.5033950805664062e-05
+      ],
+      "total_proof_time": 2.5033950805664062e-05,
+      "elapsed_time": 0.0005779266357421875
+    },
+    "enumset1__t95_enumset1.p": {
+      "file": "enumset1__t95_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        3.0040740966796875e-05
+      ],
+      "total_proof_time": 3.0040740966796875e-05,
+      "elapsed_time": 0.0007889270782470703
+    },
+    "enumset1__t96_enumset1.p": {
+      "file": "enumset1__t96_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        6.890296936035156e-05
+      ],
+      "total_proof_time": 6.890296936035156e-05,
+      "elapsed_time": 0.0007510185241699219
+    },
+    "enumset1__t98_enumset1.p": {
+      "file": "enumset1__t98_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        9.584426879882812e-05
+      ],
+      "total_proof_time": 9.584426879882812e-05,
+      "elapsed_time": 0.0016560554504394531
+    },
+    "enumset1__t99_enumset1.p": {
+      "file": "enumset1__t99_enumset1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        8.606910705566406e-05
+      ],
+      "total_proof_time": 8.606910705566406e-05,
+      "elapsed_time": 0.0011749267578125
+    },
+    "finset_1__t14_finset_1.p": {
+      "file": "finset_1__t14_finset_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00039196014404296875
+      ],
+      "total_proof_time": 0.00039196014404296875,
+      "elapsed_time": 0.0017697811126708984
+    },
+    "finset_1__t15_finset_1.p": {
+      "file": "finset_1__t15_finset_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        9.107589721679688e-05
+      ],
+      "total_proof_time": 9.107589721679688e-05,
+      "elapsed_time": 0.0006299018859863281
+    },
+    "finset_1__t17_finset_1.p": {
+      "file": "finset_1__t17_finset_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00015592575073242188
+      ],
+      "total_proof_time": 0.00015592575073242188,
+      "elapsed_time": 0.0008230209350585938
+    },
+    "finset_1__t26_finset_1.p": {
+      "file": "finset_1__t26_finset_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.000621795654296875
+      ],
+      "total_proof_time": 0.000621795654296875,
+      "elapsed_time": 0.0015938282012939453
+    },
+    "funct_1__t161_funct_1.p": {
+      "file": "funct_1__t161_funct_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0007622241973876953
+      ],
+      "total_proof_time": 0.0007622241973876953,
+      "elapsed_time": 0.001981019973754883
+    },
+    "funct_1__t163_funct_1.p": {
+      "file": "funct_1__t163_funct_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0006918907165527344
+      ],
+      "total_proof_time": 0.0006918907165527344,
+      "elapsed_time": 0.0021278858184814453
+    },
+    "funct_1__t52_funct_1.p": {
+      "file": "funct_1__t52_funct_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0001380443572998047
+      ],
+      "total_proof_time": 0.0001380443572998047,
+      "elapsed_time": 0.0016748905181884766
+    },
+    "funct_1__t53_funct_1.p": {
+      "file": "funct_1__t53_funct_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.006963968276977539
+      ],
+      "total_proof_time": 0.006963968276977539,
+      "elapsed_time": 0.008682012557983398
+    },
+    "funct_1__t55_funct_1.p": {
+      "file": "funct_1__t55_funct_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0030121803283691406
+      ],
+      "total_proof_time": 0.0030121803283691406,
+      "elapsed_time": 0.003961801528930664
+    },
+    "funct_1__t58_funct_1.p": {
+      "file": "funct_1__t58_funct_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.010896921157836914
+      ],
+      "total_proof_time": 0.010896921157836914,
+      "elapsed_time": 0.012531280517578125
+    },
+    "funct_1__t59_funct_1.p": {
+      "file": "funct_1__t59_funct_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.010769844055175781
+      ],
+      "total_proof_time": 0.010769844055175781,
+      "elapsed_time": 0.01224374771118164
+    },
+    "funct_1__t63_funct_1.p": {
+      "file": "funct_1__t63_funct_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0032110214233398438
+      ],
+      "total_proof_time": 0.0032110214233398438,
+      "elapsed_time": 0.006151914596557617
+    },
+    "funct_1__t64_funct_1.p": {
+      "file": "funct_1__t64_funct_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0032999515533447266
+      ],
+      "total_proof_time": 0.0032999515533447266,
+      "elapsed_time": 0.005614757537841797
+    },
+    "funct_1__t65_funct_1.p": {
+      "file": "funct_1__t65_funct_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.005596160888671875
+      ],
+      "total_proof_time": 0.005596160888671875,
+      "elapsed_time": 0.007581949234008789
+    },
+    "funct_1__t67_funct_1.p": {
+      "file": "funct_1__t67_funct_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.05960679054260254
+      ],
+      "total_proof_time": 0.05960679054260254,
+      "elapsed_time": 0.06298017501831055
+    },
+    "funct_1__t82_funct_1.p": {
+      "file": "funct_1__t82_funct_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.007543087005615234
+      ],
+      "total_proof_time": 0.007543087005615234,
+      "elapsed_time": 0.009920835494995117
+    },
+    "funct_1__t97_funct_1.p": {
+      "file": "funct_1__t97_funct_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.004510164260864258
+      ],
+      "total_proof_time": 0.004510164260864258,
+      "elapsed_time": 0.009371042251586914
+    },
+    "mcart_1__t28_mcart_1.p": {
+      "file": "mcart_1__t28_mcart_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0009360313415527344
+      ],
+      "total_proof_time": 0.0009360313415527344,
+      "elapsed_time": 0.004457235336303711
+    },
+    "mcart_1__t31_mcart_1.p": {
+      "file": "mcart_1__t31_mcart_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        5.698204040527344e-05
+      ],
+      "total_proof_time": 5.698204040527344e-05,
+      "elapsed_time": 0.003086090087890625
+    },
+    "mcart_1__t32_mcart_1.p": {
+      "file": "mcart_1__t32_mcart_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        5.078315734863281e-05
+      ],
+      "total_proof_time": 5.078315734863281e-05,
+      "elapsed_time": 0.0012280941009521484
+    },
+    "mcart_1__t33_mcart_1.p": {
+      "file": "mcart_1__t33_mcart_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0017647743225097656
+      ],
+      "total_proof_time": 0.0017647743225097656,
+      "elapsed_time": 0.004516124725341797
+    },
+    "mcart_1__t38_mcart_1.p": {
+      "file": "mcart_1__t38_mcart_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0017120838165283203
+      ],
+      "total_proof_time": 0.0017120838165283203,
+      "elapsed_time": 0.0042612552642822266
+    },
+    "mcart_1__t52_mcart_1.p": {
+      "file": "mcart_1__t52_mcart_1.p",
+      "status": "success",
+      "proved": 0,
+      "total": 1,
+      "results": [
+        false
+      ],
+      "success_rate": 0.0,
+      "sequent_times": [
+        0.005151987075805664
+      ],
+      "total_proof_time": 0.005151987075805664,
+      "elapsed_time": 0.008414983749389648
+    },
+    "mcart_1__t53_mcart_1.p": {
+      "file": "mcart_1__t53_mcart_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0001380443572998047
+      ],
+      "total_proof_time": 0.0001380443572998047,
+      "elapsed_time": 0.003467082977294922
+    },
+    "mcart_1__t54_mcart_1.p": {
+      "file": "mcart_1__t54_mcart_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        4.8160552978515625e-05
+      ],
+      "total_proof_time": 4.8160552978515625e-05,
+      "elapsed_time": 0.0014388561248779297
+    },
+    "mcart_1__t58_mcart_1.p": {
+      "file": "mcart_1__t58_mcart_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0006504058837890625
+      ],
+      "total_proof_time": 0.0006504058837890625,
+      "elapsed_time": 0.002471923828125
+    },
+    "mcart_1__t64_mcart_1.p": {
+      "file": "mcart_1__t64_mcart_1.p",
+      "status": "success",
+      "proved": 0,
+      "total": 1,
+      "results": [
+        false
+      ],
+      "success_rate": 0.0,
+      "sequent_times": [
+        0.00516510009765625
+      ],
+      "total_proof_time": 0.00516510009765625,
+      "elapsed_time": 0.007788896560668945
+    },
+    "mcart_1__t77_mcart_1.p": {
+      "file": "mcart_1__t77_mcart_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0005497932434082031
+      ],
+      "total_proof_time": 0.0005497932434082031,
+      "elapsed_time": 0.003201723098754883
+    },
+    "mcart_1__t7_mcart_1.p": {
+      "file": "mcart_1__t7_mcart_1.p",
+      "status": "success",
+      "proved": 0,
+      "total": 1,
+      "results": [
+        false
+      ],
+      "success_rate": 0.0,
+      "sequent_times": [
+        0.006487131118774414
+      ],
+      "total_proof_time": 0.006487131118774414,
+      "elapsed_time": 0.009112119674682617
+    },
+    "mcart_1__t88_mcart_1.p": {
+      "file": "mcart_1__t88_mcart_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0004379749298095703
+      ],
+      "total_proof_time": 0.0004379749298095703,
+      "elapsed_time": 0.0030450820922851562
+    },
+    "mcart_1__t89_mcart_1.p": {
+      "file": "mcart_1__t89_mcart_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0030679702758789062
+      ],
+      "total_proof_time": 0.0030679702758789062,
+      "elapsed_time": 0.0053670406341552734
+    },
+    "mcart_1__t8_mcart_1.p": {
+      "file": "mcart_1__t8_mcart_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.000164031982421875
+      ],
+      "total_proof_time": 0.000164031982421875,
+      "elapsed_time": 0.0014750957489013672
+    },
+    "orders_2__t28_orders_2.p": {
+      "file": "orders_2__t28_orders_2.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.007858991622924805
+      ],
+      "total_proof_time": 0.007858991622924805,
+      "elapsed_time": 0.010014057159423828
+    },
+    "orders_2__t29_orders_2.p": {
+      "file": "orders_2__t29_orders_2.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0029921531677246094
+      ],
+      "total_proof_time": 0.0029921531677246094,
+      "elapsed_time": 0.005980253219604492
+    },
+    "orders_2__t30_orders_2.p": {
+      "file": "orders_2__t30_orders_2.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.010773897171020508
+      ],
+      "total_proof_time": 0.010773897171020508,
+      "elapsed_time": 0.012516021728515625
+    },
+    "orders_2__t32_orders_2.p": {
+      "file": "orders_2__t32_orders_2.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.007168769836425781
+      ],
+      "total_proof_time": 0.007168769836425781,
+      "elapsed_time": 0.01051020622253418
+    },
+    "ordinal1__t38_ordinal1.p": {
+      "file": "ordinal1__t38_ordinal1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.03003096580505371
+      ],
+      "total_proof_time": 0.03003096580505371,
+      "elapsed_time": 0.032733917236328125
+    },
+    "ordinal1__t3_ordinal1.p": {
+      "file": "ordinal1__t3_ordinal1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0029430389404296875
+      ],
+      "total_proof_time": 0.0029430389404296875,
+      "elapsed_time": 0.004878997802734375
+    },
+    "ordinal1__t48_ordinal1.p": {
+      "file": "ordinal1__t48_ordinal1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0034151077270507812
+      ],
+      "total_proof_time": 0.0034151077270507812,
+      "elapsed_time": 0.00803828239440918
+    },
+    "ordinal1__t4_ordinal1.p": {
+      "file": "ordinal1__t4_ordinal1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0027201175689697266
+      ],
+      "total_proof_time": 0.0027201175689697266,
+      "elapsed_time": 0.006022930145263672
+    },
+    "ordinal1__t5_ordinal1.p": {
+      "file": "ordinal1__t5_ordinal1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.004350900650024414
+      ],
+      "total_proof_time": 0.004350900650024414,
+      "elapsed_time": 0.007863998413085938
+    },
+    "ordinal1__t6_ordinal1.p": {
+      "file": "ordinal1__t6_ordinal1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.007234811782836914
+      ],
+      "total_proof_time": 0.007234811782836914,
+      "elapsed_time": 0.010389089584350586
+    },
+    "relat_1__t101_relat_1.p": {
+      "file": "relat_1__t101_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0003142356872558594
+      ],
+      "total_proof_time": 0.0003142356872558594,
+      "elapsed_time": 0.0024480819702148438
+    },
+    "relat_1__t102_relat_1.p": {
+      "file": "relat_1__t102_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0003762245178222656
+      ],
+      "total_proof_time": 0.0003762245178222656,
+      "elapsed_time": 0.0021119117736816406
+    },
+    "relat_1__t103_relat_1.p": {
+      "file": "relat_1__t103_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0006430149078369141
+      ],
+      "total_proof_time": 0.0006430149078369141,
+      "elapsed_time": 0.0029859542846679688
+    },
+    "relat_1__t106_relat_1.p": {
+      "file": "relat_1__t106_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0008697509765625
+      ],
+      "total_proof_time": 0.0008697509765625,
+      "elapsed_time": 0.0022420883178710938
+    },
+    "relat_1__t118_relat_1.p": {
+      "file": "relat_1__t118_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0009319782257080078
+      ],
+      "total_proof_time": 0.0009319782257080078,
+      "elapsed_time": 0.0033600330352783203
+    },
+    "relat_1__t120_relat_1.p": {
+      "file": "relat_1__t120_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0003859996795654297
+      ],
+      "total_proof_time": 0.0003859996795654297,
+      "elapsed_time": 0.0018138885498046875
+    },
+    "relat_1__t121_relat_1.p": {
+      "file": "relat_1__t121_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0056018829345703125
+      ],
+      "total_proof_time": 0.0056018829345703125,
+      "elapsed_time": 0.007154941558837891
+    },
+    "relat_1__t122_relat_1.p": {
+      "file": "relat_1__t122_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0032210350036621094
+      ],
+      "total_proof_time": 0.0032210350036621094,
+      "elapsed_time": 0.00574803352355957
+    },
+    "relat_1__t126_relat_1.p": {
+      "file": "relat_1__t126_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0013239383697509766
+      ],
+      "total_proof_time": 0.0013239383697509766,
+      "elapsed_time": 0.0025289058685302734
+    },
+    "relat_1__t128_relat_1.p": {
+      "file": "relat_1__t128_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0002999305725097656
+      ],
+      "total_proof_time": 0.0002999305725097656,
+      "elapsed_time": 0.0011589527130126953
+    },
+    "relat_1__t129_relat_1.p": {
+      "file": "relat_1__t129_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0003669261932373047
+      ],
+      "total_proof_time": 0.0003669261932373047,
+      "elapsed_time": 0.0021162033081054688
+    },
+    "relat_1__t130_relat_1.p": {
+      "file": "relat_1__t130_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0004189014434814453
+      ],
+      "total_proof_time": 0.0004189014434814453,
+      "elapsed_time": 0.0013420581817626953
+    },
+    "relat_1__t133_relat_1.p": {
+      "file": "relat_1__t133_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0008661746978759766
+      ],
+      "total_proof_time": 0.0008661746978759766,
+      "elapsed_time": 0.0024461746215820312
+    },
+    "relat_1__t147_relat_1.p": {
+      "file": "relat_1__t147_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0004069805145263672
+      ],
+      "total_proof_time": 0.0004069805145263672,
+      "elapsed_time": 0.0015988349914550781
+    },
+    "relat_1__t158_relat_1.p": {
+      "file": "relat_1__t158_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0006680488586425781
+      ],
+      "total_proof_time": 0.0006680488586425781,
+      "elapsed_time": 0.0017809867858886719
+    },
+    "relat_1__t161_relat_1.p": {
+      "file": "relat_1__t161_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0009870529174804688
+      ],
+      "total_proof_time": 0.0009870529174804688,
+      "elapsed_time": 0.002214193344116211
+    },
+    "relat_1__t170_relat_1.p": {
+      "file": "relat_1__t170_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0007271766662597656
+      ],
+      "total_proof_time": 0.0007271766662597656,
+      "elapsed_time": 0.0015213489532470703
+    },
+    "relat_1__t180_relat_1.p": {
+      "file": "relat_1__t180_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0006620883941650391
+      ],
+      "total_proof_time": 0.0006620883941650391,
+      "elapsed_time": 0.002191781997680664
+    },
+    "relat_1__t185_relat_1.p": {
+      "file": "relat_1__t185_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0007970333099365234
+      ],
+      "total_proof_time": 0.0007970333099365234,
+      "elapsed_time": 0.0019390583038330078
+    },
+    "relat_1__t186_relat_1.p": {
+      "file": "relat_1__t186_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0012640953063964844
+      ],
+      "total_proof_time": 0.0012640953063964844,
+      "elapsed_time": 0.0023670196533203125
+    },
+    "relat_1__t188_relat_1.p": {
+      "file": "relat_1__t188_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0012021064758300781
+      ],
+      "total_proof_time": 0.0012021064758300781,
+      "elapsed_time": 0.002476930618286133
+    },
+    "relat_1__t189_relat_1.p": {
+      "file": "relat_1__t189_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00042891502380371094
+      ],
+      "total_proof_time": 0.00042891502380371094,
+      "elapsed_time": 0.0019309520721435547
+    },
+    "relat_1__t190_relat_1.p": {
+      "file": "relat_1__t190_relat_1.p",
+      "status": "success",
+      "proved": 0,
+      "total": 1,
+      "results": [
+        false
+      ],
+      "success_rate": 0.0,
+      "sequent_times": [
+        0.0027489662170410156
+      ],
+      "total_proof_time": 0.0027489662170410156,
+      "elapsed_time": 0.0048351287841796875
+    },
+    "relat_1__t192_relat_1.p": {
+      "file": "relat_1__t192_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0002751350402832031
+      ],
+      "total_proof_time": 0.0002751350402832031,
+      "elapsed_time": 0.005404233932495117
+    },
+    "relat_1__t196_relat_1.p": {
+      "file": "relat_1__t196_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0015861988067626953
+      ],
+      "total_proof_time": 0.0015861988067626953,
+      "elapsed_time": 0.01538395881652832
+    },
+    "relat_1__t197_relat_1.p": {
+      "file": "relat_1__t197_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0011038780212402344
+      ],
+      "total_proof_time": 0.0011038780212402344,
+      "elapsed_time": 0.002977132797241211
+    },
+    "relat_1__t198_relat_1.p": {
+      "file": "relat_1__t198_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.001325845718383789
+      ],
+      "total_proof_time": 0.001325845718383789,
+      "elapsed_time": 0.0027437210083007812
+    },
+    "relat_1__t199_relat_1.p": {
+      "file": "relat_1__t199_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0003478527069091797
+      ],
+      "total_proof_time": 0.0003478527069091797,
+      "elapsed_time": 0.0013630390167236328
+    },
+    "relat_1__t201_relat_1.p": {
+      "file": "relat_1__t201_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0003409385681152344
+      ],
+      "total_proof_time": 0.0003409385681152344,
+      "elapsed_time": 0.0016179084777832031
+    },
+    "relat_1__t209_relat_1.p": {
+      "file": "relat_1__t209_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0031790733337402344
+      ],
+      "total_proof_time": 0.0031790733337402344,
+      "elapsed_time": 0.00410008430480957
+    },
+    "relat_1__t210_relat_1.p": {
+      "file": "relat_1__t210_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.002518177032470703
+      ],
+      "total_proof_time": 0.002518177032470703,
+      "elapsed_time": 0.00574803352355957
+    },
+    "relat_1__t211_relat_1.p": {
+      "file": "relat_1__t211_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0014221668243408203
+      ],
+      "total_proof_time": 0.0014221668243408203,
+      "elapsed_time": 0.007071971893310547
+    },
+    "relat_1__t217_relat_1.p": {
+      "file": "relat_1__t217_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0006399154663085938
+      ],
+      "total_proof_time": 0.0006399154663085938,
+      "elapsed_time": 0.0030460357666015625
+    },
+    "relat_1__t218_relat_1.p": {
+      "file": "relat_1__t218_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0007822513580322266
+      ],
+      "total_proof_time": 0.0007822513580322266,
+      "elapsed_time": 0.002995014190673828
+    },
+    "relat_1__t219_relat_1.p": {
+      "file": "relat_1__t219_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0038938522338867188
+      ],
+      "total_proof_time": 0.0038938522338867188,
+      "elapsed_time": 0.006415128707885742
+    },
+    "relat_1__t31_relat_1.p": {
+      "file": "relat_1__t31_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0009200572967529297
+      ],
+      "total_proof_time": 0.0009200572967529297,
+      "elapsed_time": 0.0026941299438476562
+    },
+    "relat_1__t33_relat_1.p": {
+      "file": "relat_1__t33_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0006966590881347656
+      ],
+      "total_proof_time": 0.0006966590881347656,
+      "elapsed_time": 0.004945993423461914
+    },
+    "relat_1__t38_relat_1.p": {
+      "file": "relat_1__t38_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00030803680419921875
+      ],
+      "total_proof_time": 0.00030803680419921875,
+      "elapsed_time": 0.002891063690185547
+    },
+    "relat_1__t56_relat_1.p": {
+      "file": "relat_1__t56_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.01061391830444336
+      ],
+      "total_proof_time": 0.01061391830444336,
+      "elapsed_time": 0.013143062591552734
+    },
+    "relat_1__t78_relat_1.p": {
+      "file": "relat_1__t78_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0015597343444824219
+      ],
+      "total_proof_time": 0.0015597343444824219,
+      "elapsed_time": 0.0030028820037841797
+    },
+    "relat_1__t80_relat_1.p": {
+      "file": "relat_1__t80_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.002332925796508789
+      ],
+      "total_proof_time": 0.002332925796508789,
+      "elapsed_time": 0.00368499755859375
+    },
+    "relat_1__t82_relat_1.p": {
+      "file": "relat_1__t82_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.002649068832397461
+      ],
+      "total_proof_time": 0.002649068832397461,
+      "elapsed_time": 0.00536799430847168
+    },
+    "relat_1__t91_relat_1.p": {
+      "file": "relat_1__t91_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0010559558868408203
+      ],
+      "total_proof_time": 0.0010559558868408203,
+      "elapsed_time": 0.004639148712158203
+    },
+    "relat_1__t92_relat_1.p": {
+      "file": "relat_1__t92_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0071430206298828125
+      ],
+      "total_proof_time": 0.0071430206298828125,
+      "elapsed_time": 0.010662078857421875
+    },
+    "relat_1__t93_relat_1.p": {
+      "file": "relat_1__t93_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.004137992858886719
+      ],
+      "total_proof_time": 0.004137992858886719,
+      "elapsed_time": 0.006227970123291016
+    },
+    "relat_1__t98_relat_1.p": {
+      "file": "relat_1__t98_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0009980201721191406
+      ],
+      "total_proof_time": 0.0009980201721191406,
+      "elapsed_time": 0.0020771026611328125
+    },
+    "relat_1__t99_relat_1.p": {
+      "file": "relat_1__t99_relat_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.002092123031616211
+      ],
+      "total_proof_time": 0.002092123031616211,
+      "elapsed_time": 0.003495931625366211
+    },
+    "setfam_1__t2_setfam_1.p": {
+      "file": "setfam_1__t2_setfam_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.004827976226806641
+      ],
+      "total_proof_time": 0.004827976226806641,
+      "elapsed_time": 0.006967067718505859
+    },
+    "subset_1__t10_subset_1.p": {
+      "file": "subset_1__t10_subset_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.01685309410095215
+      ],
+      "total_proof_time": 0.01685309410095215,
+      "elapsed_time": 0.018703937530517578
+    },
+    "subset_1__t48_subset_1.p": {
+      "file": "subset_1__t48_subset_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.010718822479248047
+      ],
+      "total_proof_time": 0.010718822479248047,
+      "elapsed_time": 0.01308584213256836
+    },
+    "subset_1__t4_subset_1.p": {
+      "file": "subset_1__t4_subset_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0004749298095703125
+      ],
+      "total_proof_time": 0.0004749298095703125,
+      "elapsed_time": 0.003489255905151367
+    },
+    "subset_1__t63_subset_1.p": {
+      "file": "subset_1__t63_subset_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.003536224365234375
+      ],
+      "total_proof_time": 0.003536224365234375,
+      "elapsed_time": 0.00625157356262207
+    },
+    "subset_1__t65_subset_1.p": {
+      "file": "subset_1__t65_subset_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0020439624786376953
+      ],
+      "total_proof_time": 0.0020439624786376953,
+      "elapsed_time": 0.004313945770263672
+    },
+    "subset_1__t7_subset_1.p": {
+      "file": "subset_1__t7_subset_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.012584924697875977
+      ],
+      "total_proof_time": 0.012584924697875977,
+      "elapsed_time": 0.014698982238769531
+    },
+    "subset_1__t8_subset_1.p": {
+      "file": "subset_1__t8_subset_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.02046799659729004
+      ],
+      "total_proof_time": 0.02046799659729004,
+      "elapsed_time": 0.022900104522705078
+    },
+    "wellord1__t18_wellord1.p": {
+      "file": "wellord1__t18_wellord1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00024700164794921875
+      ],
+      "total_proof_time": 0.00024700164794921875,
+      "elapsed_time": 0.0019788742065429688
+    },
+    "wellord1__t26_wellord1.p": {
+      "file": "wellord1__t26_wellord1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00021195411682128906
+      ],
+      "total_proof_time": 0.00021195411682128906,
+      "elapsed_time": 0.0016350746154785156
+    },
+    "wellord1__t27_wellord1.p": {
+      "file": "wellord1__t27_wellord1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00016999244689941406
+      ],
+      "total_proof_time": 0.00016999244689941406,
+      "elapsed_time": 0.0012919902801513672
+    },
+    "wellord1__t32_wellord1.p": {
+      "file": "wellord1__t32_wellord1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0006308555603027344
+      ],
+      "total_proof_time": 0.0006308555603027344,
+      "elapsed_time": 0.0021827220916748047
+    },
+    "wellord1__t48_wellord1.p": {
+      "file": "wellord1__t48_wellord1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00551605224609375
+      ],
+      "total_proof_time": 0.00551605224609375,
+      "elapsed_time": 0.006735086441040039
+    },
+    "wellord1__t50_wellord1.p": {
+      "file": "wellord1__t50_wellord1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0006029605865478516
+      ],
+      "total_proof_time": 0.0006029605865478516,
+      "elapsed_time": 0.004752159118652344
+    },
+    "wellord1__t52_wellord1.p": {
+      "file": "wellord1__t52_wellord1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.003329038619995117
+      ],
+      "total_proof_time": 0.003329038619995117,
+      "elapsed_time": 0.011317968368530273
+    },
+    "wellord1__t54_wellord1.p": {
+      "file": "wellord1__t54_wellord1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.003702878952026367
+      ],
+      "total_proof_time": 0.003702878952026367,
+      "elapsed_time": 0.007106781005859375
+    },
+    "wellord1__t65_wellord1.p": {
+      "file": "wellord1__t65_wellord1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0006451606750488281
+      ],
+      "total_proof_time": 0.0006451606750488281,
+      "elapsed_time": 0.0021038055419921875
+    },
+    "wellord1__t8_wellord1.p": {
+      "file": "wellord1__t8_wellord1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.20118284225463867
+      ],
+      "total_proof_time": 0.20118284225463867,
+      "elapsed_time": 0.2037811279296875
+    },
+    "wellord2__t12_wellord2.p": {
+      "file": "wellord2__t12_wellord2.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0019099712371826172
+      ],
+      "total_proof_time": 0.0019099712371826172,
+      "elapsed_time": 0.0032529830932617188
+    },
+    "wellord2__t7_wellord2.p": {
+      "file": "wellord2__t7_wellord2.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0063130855560302734
+      ],
+      "total_proof_time": 0.0063130855560302734,
+      "elapsed_time": 0.007775783538818359
+    },
+    "xboole_0__t1_xboole_0.p": {
+      "file": "xboole_0__t1_xboole_0.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00574493408203125
+      ],
+      "total_proof_time": 0.00574493408203125,
+      "elapsed_time": 0.008009910583496094
+    },
+    "xboole_0__t2_xboole_0.p": {
+      "file": "xboole_0__t2_xboole_0.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0016949176788330078
+      ],
+      "total_proof_time": 0.0016949176788330078,
+      "elapsed_time": 0.004147052764892578
+    },
+    "xboole_0__t3_xboole_0.p": {
+      "file": "xboole_0__t3_xboole_0.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.03444194793701172
+      ],
+      "total_proof_time": 0.03444194793701172,
+      "elapsed_time": 0.03627586364746094
+    },
+    "xboole_0__t4_xboole_0.p": {
+      "file": "xboole_0__t4_xboole_0.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.010042190551757812
+      ],
+      "total_proof_time": 0.010042190551757812,
+      "elapsed_time": 0.011578083038330078
+    },
+    "xboole_0__t5_xboole_0.p": {
+      "file": "xboole_0__t5_xboole_0.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.004751920700073242
+      ],
+      "total_proof_time": 0.004751920700073242,
+      "elapsed_time": 0.007497072219848633
+    },
+    "xboole_0__t6_xboole_0.p": {
+      "file": "xboole_0__t6_xboole_0.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0015988349914550781
+      ],
+      "total_proof_time": 0.0015988349914550781,
+      "elapsed_time": 0.003227710723876953
+    },
+    "xboole_0__t7_xboole_0.p": {
+      "file": "xboole_0__t7_xboole_0.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0019488334655761719
+      ],
+      "total_proof_time": 0.0019488334655761719,
+      "elapsed_time": 0.003142833709716797
+    },
+    "xboole_1__t101_xboole_1.p": {
+      "file": "xboole_1__t101_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        3.5762786865234375e-05
+      ],
+      "total_proof_time": 3.5762786865234375e-05,
+      "elapsed_time": 0.0013027191162109375
+    },
+    "xboole_1__t102_xboole_1.p": {
+      "file": "xboole_1__t102_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        4.291534423828125e-05
+      ],
+      "total_proof_time": 4.291534423828125e-05,
+      "elapsed_time": 0.0014820098876953125
+    },
+    "xboole_1__t103_xboole_1.p": {
+      "file": "xboole_1__t103_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0006411075592041016
+      ],
+      "total_proof_time": 0.0006411075592041016,
+      "elapsed_time": 0.0016427040100097656
+    },
+    "xboole_1__t104_xboole_1.p": {
+      "file": "xboole_1__t104_xboole_1.p",
+      "status": "success",
+      "proved": 0,
+      "total": 1,
+      "results": [
+        false
+      ],
+      "success_rate": 0.0,
+      "sequent_times": [
+        0.024670839309692383
+      ],
+      "total_proof_time": 0.024670839309692383,
+      "elapsed_time": 0.02574324607849121
+    },
+    "xboole_1__t108_xboole_1.p": {
+      "file": "xboole_1__t108_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0001251697540283203
+      ],
+      "total_proof_time": 0.0001251697540283203,
+      "elapsed_time": 0.0016970634460449219
+    },
+    "xboole_1__t109_xboole_1.p": {
+      "file": "xboole_1__t109_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        7.605552673339844e-05
+      ],
+      "total_proof_time": 7.605552673339844e-05,
+      "elapsed_time": 0.0007498264312744141
+    },
+    "xboole_1__t10_xboole_1.p": {
+      "file": "xboole_1__t10_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00010919570922851562
+      ],
+      "total_proof_time": 0.00010919570922851562,
+      "elapsed_time": 0.0008561611175537109
+    },
+    "xboole_1__t110_xboole_1.p": {
+      "file": "xboole_1__t110_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00031113624572753906
+      ],
+      "total_proof_time": 0.00031113624572753906,
+      "elapsed_time": 0.0013232231140136719
+    },
+    "xboole_1__t112_xboole_1.p": {
+      "file": "xboole_1__t112_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        4.00543212890625e-05
+      ],
+      "total_proof_time": 4.00543212890625e-05,
+      "elapsed_time": 0.0011298656463623047
+    },
+    "xboole_1__t113_xboole_1.p": {
+      "file": "xboole_1__t113_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        2.9802322387695312e-05
+      ],
+      "total_proof_time": 2.9802322387695312e-05,
+      "elapsed_time": 0.0005748271942138672
+    },
+    "xboole_1__t114_xboole_1.p": {
+      "file": "xboole_1__t114_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0003330707550048828
+      ],
+      "total_proof_time": 0.0003330707550048828,
+      "elapsed_time": 0.0011949539184570312
+    },
+    "xboole_1__t115_xboole_1.p": {
+      "file": "xboole_1__t115_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0021059513092041016
+      ],
+      "total_proof_time": 0.0021059513092041016,
+      "elapsed_time": 0.0034351348876953125
+    },
+    "xboole_1__t116_xboole_1.p": {
+      "file": "xboole_1__t116_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        3.123283386230469e-05
+      ],
+      "total_proof_time": 3.123283386230469e-05,
+      "elapsed_time": 0.0013301372528076172
+    },
+    "xboole_1__t11_xboole_1.p": {
+      "file": "xboole_1__t11_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00011587142944335938
+      ],
+      "total_proof_time": 0.00011587142944335938,
+      "elapsed_time": 0.0009291172027587891
+    },
+    "xboole_1__t12_xboole_1.p": {
+      "file": "xboole_1__t12_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.001734018325805664
+      ],
+      "total_proof_time": 0.001734018325805664,
+      "elapsed_time": 0.00430607795715332
+    },
+    "xboole_1__t13_xboole_1.p": {
+      "file": "xboole_1__t13_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0005269050598144531
+      ],
+      "total_proof_time": 0.0005269050598144531,
+      "elapsed_time": 0.0021109580993652344
+    },
+    "xboole_1__t14_xboole_1.p": {
+      "file": "xboole_1__t14_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00045013427734375
+      ],
+      "total_proof_time": 0.00045013427734375,
+      "elapsed_time": 0.0018088817596435547
+    },
+    "xboole_1__t15_xboole_1.p": {
+      "file": "xboole_1__t15_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0004150867462158203
+      ],
+      "total_proof_time": 0.0004150867462158203,
+      "elapsed_time": 0.0020639896392822266
+    },
+    "xboole_1__t16_xboole_1.p": {
+      "file": "xboole_1__t16_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0014929771423339844
+      ],
+      "total_proof_time": 0.0014929771423339844,
+      "elapsed_time": 0.0030388832092285156
+    },
+    "xboole_1__t17_xboole_1.p": {
+      "file": "xboole_1__t17_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.009884119033813477
+      ],
+      "total_proof_time": 0.009884119033813477,
+      "elapsed_time": 0.011893987655639648
+    },
+    "xboole_1__t18_xboole_1.p": {
+      "file": "xboole_1__t18_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0002582073211669922
+      ],
+      "total_proof_time": 0.0002582073211669922,
+      "elapsed_time": 0.0021088123321533203
+    },
+    "xboole_1__t19_xboole_1.p": {
+      "file": "xboole_1__t19_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0014100074768066406
+      ],
+      "total_proof_time": 0.0014100074768066406,
+      "elapsed_time": 0.0033736228942871094
+    },
+    "xboole_1__t1_xboole_1.p": {
+      "file": "xboole_1__t1_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0007312297821044922
+      ],
+      "total_proof_time": 0.0007312297821044922,
+      "elapsed_time": 0.0021910667419433594
+    },
+    "xboole_1__t20_xboole_1.p": {
+      "file": "xboole_1__t20_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00045108795166015625
+      ],
+      "total_proof_time": 0.00045108795166015625,
+      "elapsed_time": 0.0016238689422607422
+    },
+    "xboole_1__t25_xboole_1.p": {
+      "file": "xboole_1__t25_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00013113021850585938
+      ],
+      "total_proof_time": 0.00013113021850585938,
+      "elapsed_time": 0.002090930938720703
+    },
+    "xboole_1__t26_xboole_1.p": {
+      "file": "xboole_1__t26_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0005700588226318359
+      ],
+      "total_proof_time": 0.0005700588226318359,
+      "elapsed_time": 0.0031480789184570312
+    },
+    "xboole_1__t27_xboole_1.p": {
+      "file": "xboole_1__t27_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0025200843811035156
+      ],
+      "total_proof_time": 0.0025200843811035156,
+      "elapsed_time": 0.004817962646484375
+    },
+    "xboole_1__t29_xboole_1.p": {
+      "file": "xboole_1__t29_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0006020069122314453
+      ],
+      "total_proof_time": 0.0006020069122314453,
+      "elapsed_time": 0.0061571598052978516
+    },
+    "xboole_1__t2_xboole_1.p": {
+      "file": "xboole_1__t2_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.003202199935913086
+      ],
+      "total_proof_time": 0.003202199935913086,
+      "elapsed_time": 0.004842042922973633
+    },
+    "xboole_1__t32_xboole_1.p": {
+      "file": "xboole_1__t32_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00023794174194335938
+      ],
+      "total_proof_time": 0.00023794174194335938,
+      "elapsed_time": 0.0026307106018066406
+    },
+    "xboole_1__t33_xboole_1.p": {
+      "file": "xboole_1__t33_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.000579833984375
+      ],
+      "total_proof_time": 0.000579833984375,
+      "elapsed_time": 0.0019240379333496094
+    },
+    "xboole_1__t34_xboole_1.p": {
+      "file": "xboole_1__t34_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0005099773406982422
+      ],
+      "total_proof_time": 0.0005099773406982422,
+      "elapsed_time": 0.0022399425506591797
+    },
+    "xboole_1__t35_xboole_1.p": {
+      "file": "xboole_1__t35_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0007059574127197266
+      ],
+      "total_proof_time": 0.0007059574127197266,
+      "elapsed_time": 0.0019457340240478516
+    },
+    "xboole_1__t36_xboole_1.p": {
+      "file": "xboole_1__t36_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0056569576263427734
+      ],
+      "total_proof_time": 0.0056569576263427734,
+      "elapsed_time": 0.0075910091400146484
+    },
+    "xboole_1__t37_xboole_1.p": {
+      "file": "xboole_1__t37_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.004595041275024414
+      ],
+      "total_proof_time": 0.004595041275024414,
+      "elapsed_time": 0.005803108215332031
+    },
+    "xboole_1__t38_xboole_1.p": {
+      "file": "xboole_1__t38_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.010002851486206055
+      ],
+      "total_proof_time": 0.010002851486206055,
+      "elapsed_time": 0.011794328689575195
+    },
+    "xboole_1__t3_xboole_1.p": {
+      "file": "xboole_1__t3_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.004945039749145508
+      ],
+      "total_proof_time": 0.004945039749145508,
+      "elapsed_time": 0.0069119930267333984
+    },
+    "xboole_1__t4_xboole_1.p": {
+      "file": "xboole_1__t4_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0014801025390625
+      ],
+      "total_proof_time": 0.0014801025390625,
+      "elapsed_time": 0.0030379295349121094
+    },
+    "xboole_1__t54_xboole_1.p": {
+      "file": "xboole_1__t54_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        3.504753112792969e-05
+      ],
+      "total_proof_time": 3.504753112792969e-05,
+      "elapsed_time": 0.001013040542602539
+    },
+    "xboole_1__t56_xboole_1.p": {
+      "file": "xboole_1__t56_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0012977123260498047
+      ],
+      "total_proof_time": 0.0012977123260498047,
+      "elapsed_time": 0.0026497840881347656
+    },
+    "xboole_1__t57_xboole_1.p": {
+      "file": "xboole_1__t57_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0007448196411132812
+      ],
+      "total_proof_time": 0.0007448196411132812,
+      "elapsed_time": 0.002028226852416992
+    },
+    "xboole_1__t58_xboole_1.p": {
+      "file": "xboole_1__t58_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0005922317504882812
+      ],
+      "total_proof_time": 0.0005922317504882812,
+      "elapsed_time": 0.0019941329956054688
+    },
+    "xboole_1__t59_xboole_1.p": {
+      "file": "xboole_1__t59_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.000766754150390625
+      ],
+      "total_proof_time": 0.000766754150390625,
+      "elapsed_time": 0.0023529529571533203
+    },
+    "xboole_1__t5_xboole_1.p": {
+      "file": "xboole_1__t5_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        3.5762786865234375e-05
+      ],
+      "total_proof_time": 3.5762786865234375e-05,
+      "elapsed_time": 0.0016171932220458984
+    },
+    "xboole_1__t60_xboole_1.p": {
+      "file": "xboole_1__t60_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0010437965393066406
+      ],
+      "total_proof_time": 0.0010437965393066406,
+      "elapsed_time": 0.0020291805267333984
+    },
+    "xboole_1__t61_xboole_1.p": {
+      "file": "xboole_1__t61_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.08664798736572266
+      ],
+      "total_proof_time": 0.08664798736572266,
+      "elapsed_time": 0.09462404251098633
+    },
+    "xboole_1__t62_xboole_1.p": {
+      "file": "xboole_1__t62_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0025877952575683594
+      ],
+      "total_proof_time": 0.0025877952575683594,
+      "elapsed_time": 0.033529043197631836
+    },
+    "xboole_1__t64_xboole_1.p": {
+      "file": "xboole_1__t64_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00021696090698242188
+      ],
+      "total_proof_time": 0.00021696090698242188,
+      "elapsed_time": 0.0014710426330566406
+    },
+    "xboole_1__t65_xboole_1.p": {
+      "file": "xboole_1__t65_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.01314091682434082
+      ],
+      "total_proof_time": 0.01314091682434082,
+      "elapsed_time": 0.01576685905456543
+    },
+    "xboole_1__t66_xboole_1.p": {
+      "file": "xboole_1__t66_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0030930042266845703
+      ],
+      "total_proof_time": 0.0030930042266845703,
+      "elapsed_time": 0.007771015167236328
+    },
+    "xboole_1__t68_xboole_1.p": {
+      "file": "xboole_1__t68_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0015990734100341797
+      ],
+      "total_proof_time": 0.0015990734100341797,
+      "elapsed_time": 0.003839254379272461
+    },
+    "xboole_1__t6_xboole_1.p": {
+      "file": "xboole_1__t6_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        3.0994415283203125e-05
+      ],
+      "total_proof_time": 3.0994415283203125e-05,
+      "elapsed_time": 0.0012180805206298828
+    },
+    "xboole_1__t70_xboole_1.p": {
+      "file": "xboole_1__t70_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.006047964096069336
+      ],
+      "total_proof_time": 0.006047964096069336,
+      "elapsed_time": 0.008219242095947266
+    },
+    "xboole_1__t74_xboole_1.p": {
+      "file": "xboole_1__t74_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0438840389251709
+      ],
+      "total_proof_time": 0.0438840389251709,
+      "elapsed_time": 0.04712700843811035
+    },
+    "xboole_1__t75_xboole_1.p": {
+      "file": "xboole_1__t75_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.035907745361328125
+      ],
+      "total_proof_time": 0.035907745361328125,
+      "elapsed_time": 0.038168907165527344
+    },
+    "xboole_1__t76_xboole_1.p": {
+      "file": "xboole_1__t76_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00012803077697753906
+      ],
+      "total_proof_time": 0.00012803077697753906,
+      "elapsed_time": 0.0013577938079833984
+    },
+    "xboole_1__t7_xboole_1.p": {
+      "file": "xboole_1__t7_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.005337953567504883
+      ],
+      "total_proof_time": 0.005337953567504883,
+      "elapsed_time": 0.006672859191894531
+    },
+    "xboole_1__t80_xboole_1.p": {
+      "file": "xboole_1__t80_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0002961158752441406
+      ],
+      "total_proof_time": 0.0002961158752441406,
+      "elapsed_time": 0.0021021366119384766
+    },
+    "xboole_1__t82_xboole_1.p": {
+      "file": "xboole_1__t82_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.02080988883972168
+      ],
+      "total_proof_time": 0.02080988883972168,
+      "elapsed_time": 0.02244091033935547
+    },
+    "xboole_1__t87_xboole_1.p": {
+      "file": "xboole_1__t87_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00043320655822753906
+      ],
+      "total_proof_time": 0.00043320655822753906,
+      "elapsed_time": 0.0015327930450439453
+    },
+    "xboole_1__t8_xboole_1.p": {
+      "file": "xboole_1__t8_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0011200904846191406
+      ],
+      "total_proof_time": 0.0011200904846191406,
+      "elapsed_time": 0.0032439231872558594
+    },
+    "xboole_1__t90_xboole_1.p": {
+      "file": "xboole_1__t90_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0006110668182373047
+      ],
+      "total_proof_time": 0.0006110668182373047,
+      "elapsed_time": 0.0024178028106689453
+    },
+    "xboole_1__t93_xboole_1.p": {
+      "file": "xboole_1__t93_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        3.3855438232421875e-05
+      ],
+      "total_proof_time": 3.3855438232421875e-05,
+      "elapsed_time": 0.0014379024505615234
+    },
+    "xboole_1__t96_xboole_1.p": {
+      "file": "xboole_1__t96_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00010991096496582031
+      ],
+      "total_proof_time": 0.00010991096496582031,
+      "elapsed_time": 0.001192331314086914
+    },
+    "xboole_1__t97_xboole_1.p": {
+      "file": "xboole_1__t97_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0003948211669921875
+      ],
+      "total_proof_time": 0.0003948211669921875,
+      "elapsed_time": 0.0030870437622070312
+    },
+    "xboole_1__t99_xboole_1.p": {
+      "file": "xboole_1__t99_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        3.814697265625e-05
+      ],
+      "total_proof_time": 3.814697265625e-05,
+      "elapsed_time": 0.0010952949523925781
+    },
+    "xboole_1__t9_xboole_1.p": {
+      "file": "xboole_1__t9_xboole_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0003840923309326172
+      ],
+      "total_proof_time": 0.0003840923309326172,
+      "elapsed_time": 0.001669168472290039
+    },
+    "yellow_0__t15_yellow_0.p": {
+      "file": "yellow_0__t15_yellow_0.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.03557300567626953
+      ],
+      "total_proof_time": 0.03557300567626953,
+      "elapsed_time": 0.03791189193725586
+    },
+    "yellow_0__t16_yellow_0.p": {
+      "file": "yellow_0__t16_yellow_0.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.03359484672546387
+      ],
+      "total_proof_time": 0.03359484672546387,
+      "elapsed_time": 0.03554201126098633
+    },
+    "yellow_0__t30_yellow_0.p": {
+      "file": "yellow_0__t30_yellow_0.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.045777082443237305
+      ],
+      "total_proof_time": 0.045777082443237305,
+      "elapsed_time": 0.048330068588256836
+    },
+    "yellow_0__t31_yellow_0.p": {
+      "file": "yellow_0__t31_yellow_0.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.03661608695983887
+      ],
+      "total_proof_time": 0.03661608695983887,
+      "elapsed_time": 0.0386810302734375
+    },
+    "zfmisc_1__t100_zfmisc_1.p": {
+      "file": "zfmisc_1__t100_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.008749961853027344
+      ],
+      "total_proof_time": 0.008749961853027344,
+      "elapsed_time": 0.010065078735351562
+    },
+    "zfmisc_1__t103_zfmisc_1.p": {
+      "file": "zfmisc_1__t103_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0013110637664794922
+      ],
+      "total_proof_time": 0.0013110637664794922,
+      "elapsed_time": 0.002789020538330078
+    },
+    "zfmisc_1__t106_zfmisc_1.p": {
+      "file": "zfmisc_1__t106_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0015459060668945312
+      ],
+      "total_proof_time": 0.0015459060668945312,
+      "elapsed_time": 0.0025930404663085938
+    },
+    "zfmisc_1__t107_zfmisc_1.p": {
+      "file": "zfmisc_1__t107_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0001678466796875
+      ],
+      "total_proof_time": 0.0001678466796875,
+      "elapsed_time": 0.0014231204986572266
+    },
+    "zfmisc_1__t108_zfmisc_1.p": {
+      "file": "zfmisc_1__t108_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.007109880447387695
+      ],
+      "total_proof_time": 0.007109880447387695,
+      "elapsed_time": 0.008418798446655273
+    },
+    "zfmisc_1__t10_zfmisc_1.p": {
+      "file": "zfmisc_1__t10_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.014564990997314453
+      ],
+      "total_proof_time": 0.014564990997314453,
+      "elapsed_time": 0.01675701141357422
+    },
+    "zfmisc_1__t113_zfmisc_1.p": {
+      "file": "zfmisc_1__t113_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.001786947250366211
+      ],
+      "total_proof_time": 0.001786947250366211,
+      "elapsed_time": 0.0031669139862060547
+    },
+    "zfmisc_1__t114_zfmisc_1.p": {
+      "file": "zfmisc_1__t114_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0004589557647705078
+      ],
+      "total_proof_time": 0.0004589557647705078,
+      "elapsed_time": 0.0017406940460205078
+    },
+    "zfmisc_1__t115_zfmisc_1.p": {
+      "file": "zfmisc_1__t115_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00043392181396484375
+      ],
+      "total_proof_time": 0.00043392181396484375,
+      "elapsed_time": 0.0015430450439453125
+    },
+    "zfmisc_1__t117_zfmisc_1.p": {
+      "file": "zfmisc_1__t117_zfmisc_1.p",
+      "status": "success",
+      "proved": 0,
+      "total": 1,
+      "results": [
+        false
+      ],
+      "success_rate": 0.0,
+      "sequent_times": [
+        0.09430503845214844
+      ],
+      "total_proof_time": 0.09430503845214844,
+      "elapsed_time": 0.09652304649353027
+    },
+    "zfmisc_1__t118_zfmisc_1.p": {
+      "file": "zfmisc_1__t118_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0006678104400634766
+      ],
+      "total_proof_time": 0.0006678104400634766,
+      "elapsed_time": 0.0024781227111816406
+    },
+    "zfmisc_1__t119_zfmisc_1.p": {
+      "file": "zfmisc_1__t119_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00020623207092285156
+      ],
+      "total_proof_time": 0.00020623207092285156,
+      "elapsed_time": 0.0011630058288574219
+    },
+    "zfmisc_1__t121_zfmisc_1.p": {
+      "file": "zfmisc_1__t121_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        3.886222839355469e-05
+      ],
+      "total_proof_time": 3.886222839355469e-05,
+      "elapsed_time": 0.00109100341796875
+    },
+    "zfmisc_1__t124_zfmisc_1.p": {
+      "file": "zfmisc_1__t124_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0006031990051269531
+      ],
+      "total_proof_time": 0.0006031990051269531,
+      "elapsed_time": 0.0015621185302734375
+    },
+    "zfmisc_1__t128_zfmisc_1.p": {
+      "file": "zfmisc_1__t128_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0020008087158203125
+      ],
+      "total_proof_time": 0.0020008087158203125,
+      "elapsed_time": 0.004199028015136719
+    },
+    "zfmisc_1__t129_zfmisc_1.p": {
+      "file": "zfmisc_1__t129_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0025701522827148438
+      ],
+      "total_proof_time": 0.0025701522827148438,
+      "elapsed_time": 0.004090070724487305
+    },
+    "zfmisc_1__t12_zfmisc_1.p": {
+      "file": "zfmisc_1__t12_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.012639999389648438
+      ],
+      "total_proof_time": 0.012639999389648438,
+      "elapsed_time": 0.014308929443359375
+    },
+    "zfmisc_1__t130_zfmisc_1.p": {
+      "file": "zfmisc_1__t130_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.007149934768676758
+      ],
+      "total_proof_time": 0.007149934768676758,
+      "elapsed_time": 0.009207963943481445
+    },
+    "zfmisc_1__t131_zfmisc_1.p": {
+      "file": "zfmisc_1__t131_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00972294807434082
+      ],
+      "total_proof_time": 0.00972294807434082,
+      "elapsed_time": 0.013718605041503906
+    },
+    "zfmisc_1__t134_zfmisc_1.p": {
+      "file": "zfmisc_1__t134_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.001207113265991211
+      ],
+      "total_proof_time": 0.001207113265991211,
+      "elapsed_time": 0.007626056671142578
+    },
+    "zfmisc_1__t136_zfmisc_1.p": {
+      "file": "zfmisc_1__t136_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.06208515167236328
+      ],
+      "total_proof_time": 0.06208515167236328,
+      "elapsed_time": 0.06802725791931152
+    },
+    "zfmisc_1__t137_zfmisc_1.p": {
+      "file": "zfmisc_1__t137_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0004680156707763672
+      ],
+      "total_proof_time": 0.0004680156707763672,
+      "elapsed_time": 0.0019731521606445312
+    },
+    "zfmisc_1__t139_zfmisc_1.p": {
+      "file": "zfmisc_1__t139_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0004401206970214844
+      ],
+      "total_proof_time": 0.0004401206970214844,
+      "elapsed_time": 0.002151012420654297
+    },
+    "zfmisc_1__t13_zfmisc_1.p": {
+      "file": "zfmisc_1__t13_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00021409988403320312
+      ],
+      "total_proof_time": 0.00021409988403320312,
+      "elapsed_time": 0.001466989517211914
+    },
+    "zfmisc_1__t143_zfmisc_1.p": {
+      "file": "zfmisc_1__t143_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0005199909210205078
+      ],
+      "total_proof_time": 0.0005199909210205078,
+      "elapsed_time": 0.00373077392578125
+    },
+    "zfmisc_1__t151_zfmisc_1.p": {
+      "file": "zfmisc_1__t151_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.004560708999633789
+      ],
+      "total_proof_time": 0.004560708999633789,
+      "elapsed_time": 0.0057299137115478516
+    },
+    "zfmisc_1__t153_zfmisc_1.p": {
+      "file": "zfmisc_1__t153_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.018791913986206055
+      ],
+      "total_proof_time": 0.018791913986206055,
+      "elapsed_time": 0.0202181339263916
+    },
+    "zfmisc_1__t154_zfmisc_1.p": {
+      "file": "zfmisc_1__t154_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0013508796691894531
+      ],
+      "total_proof_time": 0.0013508796691894531,
+      "elapsed_time": 0.0034880638122558594
+    },
+    "zfmisc_1__t16_zfmisc_1.p": {
+      "file": "zfmisc_1__t16_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00922703742980957
+      ],
+      "total_proof_time": 0.00922703742980957,
+      "elapsed_time": 0.010382890701293945
+    },
+    "zfmisc_1__t17_zfmisc_1.p": {
+      "file": "zfmisc_1__t17_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.013666629791259766
+      ],
+      "total_proof_time": 0.013666629791259766,
+      "elapsed_time": 0.014802217483520508
+    },
+    "zfmisc_1__t18_zfmisc_1.p": {
+      "file": "zfmisc_1__t18_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00024008750915527344
+      ],
+      "total_proof_time": 0.00024008750915527344,
+      "elapsed_time": 0.002173185348510742
+    },
+    "zfmisc_1__t1_zfmisc_1.p": {
+      "file": "zfmisc_1__t1_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.009608983993530273
+      ],
+      "total_proof_time": 0.009608983993530273,
+      "elapsed_time": 0.012242794036865234
+    },
+    "zfmisc_1__t20_zfmisc_1.p": {
+      "file": "zfmisc_1__t20_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.020446062088012695
+      ],
+      "total_proof_time": 0.020446062088012695,
+      "elapsed_time": 0.023489952087402344
+    },
+    "zfmisc_1__t21_zfmisc_1.p": {
+      "file": "zfmisc_1__t21_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00027489662170410156
+      ],
+      "total_proof_time": 0.00027489662170410156,
+      "elapsed_time": 0.0021178722381591797
+    },
+    "zfmisc_1__t24_zfmisc_1.p": {
+      "file": "zfmisc_1__t24_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00014638900756835938
+      ],
+      "total_proof_time": 0.00014638900756835938,
+      "elapsed_time": 0.0013480186462402344
+    },
+    "zfmisc_1__t25_zfmisc_1.p": {
+      "file": "zfmisc_1__t25_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.016505718231201172
+      ],
+      "total_proof_time": 0.016505718231201172,
+      "elapsed_time": 0.01835918426513672
+    },
+    "zfmisc_1__t26_zfmisc_1.p": {
+      "file": "zfmisc_1__t26_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0035576820373535156
+      ],
+      "total_proof_time": 0.0035576820373535156,
+      "elapsed_time": 0.0066759586334228516
+    },
+    "zfmisc_1__t27_zfmisc_1.p": {
+      "file": "zfmisc_1__t27_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0003857612609863281
+      ],
+      "total_proof_time": 0.0003857612609863281,
+      "elapsed_time": 0.002246856689453125
+    },
+    "zfmisc_1__t2_zfmisc_1.p": {
+      "file": "zfmisc_1__t2_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.009670734405517578
+      ],
+      "total_proof_time": 0.009670734405517578,
+      "elapsed_time": 0.011023998260498047
+    },
+    "zfmisc_1__t31_zfmisc_1.p": {
+      "file": "zfmisc_1__t31_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.031171083450317383
+      ],
+      "total_proof_time": 0.031171083450317383,
+      "elapsed_time": 0.0329442024230957
+    },
+    "zfmisc_1__t34_zfmisc_1.p": {
+      "file": "zfmisc_1__t34_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.014114141464233398
+      ],
+      "total_proof_time": 0.014114141464233398,
+      "elapsed_time": 0.016143083572387695
+    },
+    "zfmisc_1__t35_zfmisc_1.p": {
+      "file": "zfmisc_1__t35_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.011372089385986328
+      ],
+      "total_proof_time": 0.011372089385986328,
+      "elapsed_time": 0.013911962509155273
+    },
+    "zfmisc_1__t37_zfmisc_1.p": {
+      "file": "zfmisc_1__t37_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.003118753433227539
+      ],
+      "total_proof_time": 0.003118753433227539,
+      "elapsed_time": 0.004196882247924805
+    },
+    "zfmisc_1__t38_zfmisc_1.p": {
+      "file": "zfmisc_1__t38_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.04189491271972656
+      ],
+      "total_proof_time": 0.04189491271972656,
+      "elapsed_time": 0.043792009353637695
+    },
+    "zfmisc_1__t39_zfmisc_1.p": {
+      "file": "zfmisc_1__t39_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.009851932525634766
+      ],
+      "total_proof_time": 0.009851932525634766,
+      "elapsed_time": 0.011195898056030273
+    },
+    "zfmisc_1__t40_zfmisc_1.p": {
+      "file": "zfmisc_1__t40_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0005850791931152344
+      ],
+      "total_proof_time": 0.0005850791931152344,
+      "elapsed_time": 0.0025680065155029297
+    },
+    "zfmisc_1__t41_zfmisc_1.p": {
+      "file": "zfmisc_1__t41_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0072591304779052734
+      ],
+      "total_proof_time": 0.0072591304779052734,
+      "elapsed_time": 0.008631706237792969
+    },
+    "zfmisc_1__t42_zfmisc_1.p": {
+      "file": "zfmisc_1__t42_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.013571977615356445
+      ],
+      "total_proof_time": 0.013571977615356445,
+      "elapsed_time": 0.015227079391479492
+    },
+    "zfmisc_1__t44_zfmisc_1.p": {
+      "file": "zfmisc_1__t44_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0024182796478271484
+      ],
+      "total_proof_time": 0.0024182796478271484,
+      "elapsed_time": 0.00397801399230957
+    },
+    "zfmisc_1__t45_zfmisc_1.p": {
+      "file": "zfmisc_1__t45_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0036628246307373047
+      ],
+      "total_proof_time": 0.0036628246307373047,
+      "elapsed_time": 0.006136178970336914
+    },
+    "zfmisc_1__t46_zfmisc_1.p": {
+      "file": "zfmisc_1__t46_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00036406517028808594
+      ],
+      "total_proof_time": 0.00036406517028808594,
+      "elapsed_time": 0.0017387866973876953
+    },
+    "zfmisc_1__t51_zfmisc_1.p": {
+      "file": "zfmisc_1__t51_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0020821094512939453
+      ],
+      "total_proof_time": 0.0020821094512939453,
+      "elapsed_time": 0.003262042999267578
+    },
+    "zfmisc_1__t52_zfmisc_1.p": {
+      "file": "zfmisc_1__t52_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0003170967102050781
+      ],
+      "total_proof_time": 0.0003170967102050781,
+      "elapsed_time": 0.0018849372863769531
+    },
+    "zfmisc_1__t54_zfmisc_1.p": {
+      "file": "zfmisc_1__t54_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.002307891845703125
+      ],
+      "total_proof_time": 0.002307891845703125,
+      "elapsed_time": 0.00384521484375
+    },
+    "zfmisc_1__t56_zfmisc_1.p": {
+      "file": "zfmisc_1__t56_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.005650997161865234
+      ],
+      "total_proof_time": 0.005650997161865234,
+      "elapsed_time": 0.007197141647338867
+    },
+    "zfmisc_1__t64_zfmisc_1.p": {
+      "file": "zfmisc_1__t64_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0024421215057373047
+      ],
+      "total_proof_time": 0.0024421215057373047,
+      "elapsed_time": 0.003835916519165039
+    },
+    "zfmisc_1__t66_zfmisc_1.p": {
+      "file": "zfmisc_1__t66_zfmisc_1.p",
+      "status": "success",
+      "proved": 0,
+      "total": 1,
+      "results": [
+        false
+      ],
+      "success_rate": 0.0,
+      "sequent_times": [
+        0.020611047744750977
+      ],
+      "total_proof_time": 0.020611047744750977,
+      "elapsed_time": 0.022844791412353516
+    },
+    "zfmisc_1__t67_zfmisc_1.p": {
+      "file": "zfmisc_1__t67_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0019850730895996094
+      ],
+      "total_proof_time": 0.0019850730895996094,
+      "elapsed_time": 0.003847837448120117
+    },
+    "zfmisc_1__t68_zfmisc_1.p": {
+      "file": "zfmisc_1__t68_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0039708614349365234
+      ],
+      "total_proof_time": 0.0039708614349365234,
+      "elapsed_time": 0.005959987640380859
+    },
+    "zfmisc_1__t69_zfmisc_1.p": {
+      "file": "zfmisc_1__t69_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0003650188446044922
+      ],
+      "total_proof_time": 0.0003650188446044922,
+      "elapsed_time": 0.002370119094848633
+    },
+    "zfmisc_1__t6_zfmisc_1.p": {
+      "file": "zfmisc_1__t6_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00957489013671875
+      ],
+      "total_proof_time": 0.00957489013671875,
+      "elapsed_time": 0.012562274932861328
+    },
+    "zfmisc_1__t79_zfmisc_1.p": {
+      "file": "zfmisc_1__t79_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00023102760314941406
+      ],
+      "total_proof_time": 0.00023102760314941406,
+      "elapsed_time": 0.0022411346435546875
+    },
+    "zfmisc_1__t80_zfmisc_1.p": {
+      "file": "zfmisc_1__t80_zfmisc_1.p",
+      "status": "success",
+      "proved": 0,
+      "total": 1,
+      "results": [
+        false
+      ],
+      "success_rate": 0.0,
+      "sequent_times": [
+        0.008936166763305664
+      ],
+      "total_proof_time": 0.008936166763305664,
+      "elapsed_time": 0.009984970092773438
+    },
+    "zfmisc_1__t8_zfmisc_1.p": {
+      "file": "zfmisc_1__t8_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0002276897430419922
+      ],
+      "total_proof_time": 0.0002276897430419922,
+      "elapsed_time": 0.0015039443969726562
+    },
+    "zfmisc_1__t92_zfmisc_1.p": {
+      "file": "zfmisc_1__t92_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.0010819435119628906
+      ],
+      "total_proof_time": 0.0010819435119628906,
+      "elapsed_time": 0.002054929733276367
+    },
+    "zfmisc_1__t94_zfmisc_1.p": {
+      "file": "zfmisc_1__t94_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.006487131118774414
+      ],
+      "total_proof_time": 0.006487131118774414,
+      "elapsed_time": 0.007519960403442383
+    },
+    "zfmisc_1__t95_zfmisc_1.p": {
+      "file": "zfmisc_1__t95_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00025582313537597656
+      ],
+      "total_proof_time": 0.00025582313537597656,
+      "elapsed_time": 0.0017249584197998047
+    },
+    "zfmisc_1__t9_zfmisc_1.p": {
+      "file": "zfmisc_1__t9_zfmisc_1.p",
+      "status": "success",
+      "proved": 1,
+      "total": 1,
+      "results": [
+        true
+      ],
+      "success_rate": 100.0,
+      "sequent_times": [
+        0.00018095970153808594
+      ],
+      "total_proof_time": 0.00018095970153808594,
+      "elapsed_time": 0.0013942718505859375
+    }
+  }
+}
